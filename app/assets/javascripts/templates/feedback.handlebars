@@ -1,0 +1,49 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<div class="page-header">
+  <h2>{{t feedback.send}}</h2>
+</div>
+<p>Have a problem or question about Flexicon?<br>Enter your thoughts below and click 'Send' to give
+your feedback to the administrators of Flexicon. 
+</p>
+
+
+
+<fieldset>
+	<textarea id="feedbackTxt" rows="8" class="input input-xxlarge"></textarea>
+	<p>
+	{{#if FlexiconEmber.Auth.signedIn}}
+  Comment submitted by: 	{{#if FlexiconEmber.Auth.user.name}}
+  {{FlexiconEmber.Auth.user.name}}
+  {{else}}
+  {{FlexiconEmber.Auth.user.email}}
+{{/if}}
+{{/if}}</p>
+</fieldset>
+<button class="btn btn-info" onclick="sendFeedback();">{{t send}}</button>
+<script type="text/javascript">
+	function sendFeedback() {
+		var val = $('#feedbackTxt').val();
+		$.ajax({
+		  type    : 'POST',
+		  url     : "/feedback/submit", 
+		  dataType: 'text',
+		  data    : { info : val , user_id : FlexiconEmber.Auth.get('user').get('id')},
+		  success: function(data, text, xhr) {
+			  alert('Your feedback has been sent!');
+			  window.location.href = "/#";
+		  },
+		  error: function(xhr, text, error) {
+			  alert('An error occurred, your feedback may not be sent.');
+		  }  
+		});
+	}
+</script>

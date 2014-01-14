@@ -1,0 +1,32 @@
+# NOTICE
+
+# This software was produced for the U. S. Government
+# under Contract No. FA8702-13-C-0001, and is
+# subject to the Rights in Noncommercial Computer Software
+# and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+#  2013 The MITRE Corporation. All Rights Reserved.
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  activerecord:
+    attributes:
+      user:
+        email: "E-mail address"
+    errors:
+      models:
+        user:
+          attributes:
+            password:
+              blank: "Password is required!"
+            name:
+              blank: "Your name is required!"
+            email:
+              blank: "E-mail address is required!"
+              taken: "E-mail address is already in use!"
+        entry:
+          attributes:
+            term:
+              blank: "You must enter a term!"
+              taken: "This term already exists!"

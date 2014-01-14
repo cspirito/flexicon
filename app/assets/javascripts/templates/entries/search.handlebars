@@ -1,0 +1,42 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<h2><i class="icon-book muted"></i>&nbsp;{{t entry.found}}</h2>
+
+<table class="table table-hover">
+	<thead>
+		<tr>
+			<th>{{t entry.term}}</th>
+			<th>{{t language.title}}</th>
+		</tr>
+	</thead>
+	<tbody>
+		{{#if content.isLoaded}}
+			{{#each entry in controller}}
+				<tr>		
+					<td>{{#linkTo 'entries.show' entry tagName="button" classNames="btn btn-info btn-mini"}}{{entry.term}}{{/linkTo}}</td>
+					<td>{{entry.language.fullName}}</td>
+				</tr>
+			{{else}}
+				<tr>
+					<td colspan="2">
+						<i class="icon-spin icon-spinner icon-large"></i> No terms found!
+					</td>
+				</tr>
+			{{/each}}
+		{{else}}
+			<tr>
+				<td colspan="2">
+					No terms found!
+				</td>
+			</tr>
+		{{/if}}
+	</tbody>
+</table>

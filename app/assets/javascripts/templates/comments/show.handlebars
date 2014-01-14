@@ -1,0 +1,36 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<div class="row comment">
+
+	<div class="comment-info span3">
+    {{#linkTo "users.show" user}}
+      {{#if user.name}}
+        {{user.name}}
+      {{else}}
+        {{user.email}}
+      {{/if}}
+    {{/linkTo}}
+    <br>
+    <span class="muted small">{{parseShortDateTime created_at}}</span>
+	</div>
+	<div class="span6">
+  	<div class="comment-message">
+	  	{{comment.comment}}
+  	</div>
+  
+    <div class="comment-rating">
+      <span class="rate-up" title="Up-vote this comment" {{action upvote}}>
+        <i class="icon-chevron-up"></i> {{votes_for}} </span>|
+      <span class="rate-down" title="Down-vote this comment" {{action downvote}}>
+        <i class="icon-chevron-down"></i> {{votes_against}}</span>
+    </div>
+  </div>
+</div>

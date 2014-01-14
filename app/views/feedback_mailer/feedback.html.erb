@@ -1,0 +1,28 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<!DOCTYPE html>
+	<html>
+	  <head>
+	    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+	  </head>
+	  <body>
+	    <h1>Feedback has been received for the Flexicon!</h1>
+	    <br/>
+	    <h3>User Information</h3>
+	    <hr style="width: 50%"/>
+	    <b><%= @user.email %></b>
+	    <br/>
+	    <%= @user.name %>
+	    <br/>
+	    <h3>Feedback</h3>
+	    <%= @info %>
+	  </body>
+</html>

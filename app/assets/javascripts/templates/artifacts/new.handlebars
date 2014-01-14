@@ -1,0 +1,37 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<h2>{{t artifact.add}}</h2>
+<form>
+  <fieldset>
+	<div>{{t artifact.source}}</div>
+    <div>
+      {{view Ember.TextArea valueBinding='source' name='source' viewName='sourceField'}}
+    </div>
+	<div>{{t artifact.classification}}</div>
+    <div>
+      {{view Ember.TextArea valueBinding='classification' name='classification' viewName='classificationField'}}
+    </div>
+	<div>{{t artifact.notes}}</div>
+    <div>
+      {{view Ember.TextArea valueBinding='notes' name='notes' viewName='notesField'}}
+    </div>
+	<div>{{t artifact.usage}}</div>
+    <div>
+      {{view Ember.TextArea valueBinding='usage' name='usage' viewName='usageField'}}
+    </div>
+	<div>{{t artifact.translation}}</div>
+    <div>
+      {{view Ember.TextArea valueBinding='proposedUsageTranslation' name='proposedUsageTranslation' viewName='proposedUsageTranslationField'}}
+    </div>
+    <a href='#' {{action create}} class='btn btn-success'><i class="icon-plus-sign"></i>&nbsp;{{t send}}</a>
+    <a href='#' {{action cancel}} class='btn'>{{t cancel}}</a>
+  </fieldset>
+</form>

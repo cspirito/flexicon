@@ -1,0 +1,73 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<form class="form-horizontal">
+	<fieldset class="control-group">
+		<div class="control-group">
+			<label {{bindAttr for="fullNameField.field_id"}} class="control-label">{{t user.name}}</label>
+			<div class="controls">
+				{{view Ember.TextField valueBinding='name' name='name' viewName='fullNameField'}}
+			</div>
+		</div>
+		{{#if id}}
+		{{else}}
+		<div class="control-group">
+			<label {{bindAttr for="emailfield.field_id"}} class="control-label">{{t user.email}} <span class="required">*</span></label>
+			<div class="controls">
+				{{view Ember.TextField valueBinding='email' name='email' viewName='emailfield'}}
+			</div>
+		</div>
+		<div class="control-group">
+			<label {{bindAttr for="passField.field_id"}} class="control-label">{{t user.password}} <span class="required">*</span> </label>
+			<div class="controls">
+				{{view Ember.TextField type="password" valueBinding='password' name='password' viewName='passField' class='input input-medium'}} <span class="text-info smaller">[must be 8+ characters]</span>
+			</div>
+		</div>
+		<div class="control-group">
+			<label {{bindAttr for="passconffield.field_id"}} class="control-label">{{t user.password.confirm}} <span class="required">*</span></label>
+			<div class="controls">
+				{{view Ember.TextField type="password" valueBinding='passwordConfirm' name='passwordConfirm' viewName='passconffield' class='input input-medium'}}
+			</div>
+		</div>
+		{{/if}}
+	</fieldset>
+	<fieldset>
+		<div class="control-group">
+			<label {{bindAttr for="phoneField.field_id"}} class="control-label">{{t user.phone}}</label>
+			<div class="controls">
+				{{view Ember.TextField valueBinding='phone' name='phone' viewName='phoneField'}}
+			</div>
+		</div>
+		<div class="control-group">
+			<label {{bindAttr for="securePhoneField.field_id"}} class="control-label">Phone (Secure)</label>
+			<div class="controls">
+				{{view Ember.TextField valueBinding='securePhone' name='securePhone' viewName='securePhoneField'}}
+			</div>
+		</div>
+		<div class="control-group">
+			<label {{bindAttr for="organizationField.field_id"}} class="control-label">{{t user.organization}}</label>
+			<div class="controls">
+				{{view Ember.TextField valueBinding='organization' name='organization' viewName='organizationField'}}
+			</div>
+		</div>
+		<div class="control-group">
+			<label {{bindAttr for="jobTitleField.field_id"}} class="control-label">{{t user.jobtitle}}</label>
+			<div class="controls">
+				{{view Ember.TextField valueBinding='jobTitle' name='jobTitle' viewName='jobTitleField'}}
+			</div>
+		</div>
+		<div class="control-group">
+			<div class="controls">
+				<a href='#' {{action create}} class='btn btn-success'><i class="icon-plus-sign"></i>&nbsp;{{t send}}</a>
+				<a href='#' {{action cancel}} class='btn' style='margin-left:20px'>{{t cancel}}</a>
+			</div>
+		</div>
+	</fieldset>
+</form>

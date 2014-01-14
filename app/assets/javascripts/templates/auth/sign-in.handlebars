@@ -1,0 +1,22 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<form>
+  <ul class="nav nav-list" >
+		<li class="nav-header">{{t user.email}}</li>
+		<li>{{view Ember.TextField valueBinding="view.email" classNames="fullWidth"}}</li>
+		<li class="nav-header in-form">{{t user.password}}</li>
+		<li>{{view Ember.TextField type="password" valueBinding="view.password" classNames="fullWidth"}}</li>
+		<li><button class="btn btn-small btn-success"><i class="icon-signin"></i>&nbsp;{{t user.login}}</button></li>
+  	<li class="divider"></li>
+		<li class="nav-header">{{t user.account.new}}</li>
+  	<li>{{#linkTo "users.new" tagName="button" classNames="btn btn-small"}}<i class="icon-user"></i>&nbsp;{{t user.signup}}{{/linkTo}}</li>
+  </ul>
+</form>

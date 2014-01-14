@@ -1,0 +1,192 @@
+NOTICE
+
+This technical data was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Technical Data-Noncommercial
+Items Clause (DFARS) 252.227-7013 (NOV 1995)
+ 2013 The MITRE Corporation. All Rights Reserved.
+
+Afar	Afaraf	aa
+Amharic	አማርኛ	am
+Arabic	العربية	ar
+Hausa	Hausa, هَوُسَ	ha
+Hebrew (modern)	עברית	he
+Maltese	Malti	mt
+Oromo	Afaan Oromoo	om
+Somali	Soomaaliga, af Soomaali	so
+Tigrinya	ትግርኛ	ti
+Cree	ᓀᐦᐃᔭᐍᐏᐣ	cr
+Ojibwe, Ojibwa	ᐊᓂᔑᓈᐯᒧᐎᓐ	oj
+Khmer	ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ	km
+Vietnamese	Tiếng Việt	vi
+Chamorro	Chamoru	ch
+Fijian	vosa Vakaviti	fj
+Hiri Motu	Hiri Motu	ho
+Indonesian	Bahasa Indonesia	id
+Javanese	basa Jawa	jv
+Malagasy	fiteny malagasy	mg
+Malay	bahasa Melayu, بهاس ملايو‎	ms
+Māori	te reo Māori	mi
+Marshallese	Kajin M̧ajeļ	mh
+Nauru	Ekakairũ Naoero	na
+Samoan	gagana fa'a Samoa	sm
+Sundanese	Basa Sunda	su
+Tagalog	Wikang Tagalog, ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔	tl
+Tonga (Tonga Islands)	faka Tonga	to
+Tahitian	Reo Tahiti	ty
+Aymara	aymar aru	ay
+Esperanto	Esperanto	eo
+Interlingua	Interlingua	ia
+Interlingue	Originally called Occidental; then Interlingue after WWII	ie
+Ido	Ido	io
+Volapük	Volapük	vo
+Bislama	Bislama	bi
+Haitian; Haitian Creole	Kreyòl ayisyen	ht
+Sango	yângâ tî sängö	sg
+Navajo, Navaho	Diné bizaad, Dinékʼehǰí	nv
+Kannada	ಕನ್ನಡ	kn
+Malayalam	മലയാളം	ml
+Inupiaq	Iñupiaq, Iñupiatun	ik
+Inuktitut	ᐃᓄᒃᑎᑐᑦ	iu
+Kalaallisut, Greenlandic	kalaallisut, kalaallit oqaasii	kl
+Afrikaans	Afrikaans	af
+Albanian	gjuha shqipe	sq
+Aragonese	aragonés	an
+Armenian	Հայերեն	hy
+Assamese	অসমীয়া	as
+Avestan	avesta	ae
+Belarusian	беларуская мова	be
+Bengali	বাংলা	bn
+Bihari	भोजपुरी	bh
+Bosnian	bosanski jezik	bs
+Breton	brezhoneg	br
+Bulgarian	български език	bg
+Catalan; Valencian	català, valencià	ca
+Cornish	Kernewek	kw
+Corsican	corsu, lingua corsa	co
+Croatian	hrvatski jezik	hr
+Czech	čeština, český jazyk	cs
+Danish	dansk	da
+Divehi; Dhivehi; Maldivian;	ދިވެހި	dv
+Dutch	Nederlands, Vlaams	nl
+English	English	en
+Faroese	føroyskt	fo
+French	français, langue française	fr
+Galician	galego	gl
+German	Deutsch	de
+Greek, Modern	ελληνικά	el
+Gujarati	ગુજરાતી	gu
+Hindi	हिन्दी, हिंदी	hi
+Irish	Gaeilge	ga
+Icelandic	Íslenska	is
+Italian	italiano	it
+Kashmiri	कश्मीरी, كشميري‎	ks
+Kurdish	Kurdî, كوردی‎	ku
+Latin	latine, lingua latina	la
+Luxembourgish, Letzeburgesch	Lëtzebuergesch	lb
+Limburgish, Limburgan, Limburger	Limburgs	li
+Lithuanian	lietuvių kalba	lt
+Latvian	latviešu valoda	lv
+Manx	Gaelg, Gailck	gv
+Macedonian	македонски јазик	mk
+Marathi (Marāṭhī)	मराठी	mr
+Norwegian Bokmål	Norsk bokmål	nb
+Nepali	नेपाली	ne
+Norwegian Nynorsk	Norsk nynorsk	nn
+Norwegian	Norsk	no
+Occitan	occitan, lenga d'òc	oc
+Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic	ѩзыкъ словѣньскъ	cu
+Ossetian, Ossetic	ирон æвзаг	os
+Panjabi, Punjabi	ਪੰਜਾਬੀ, پنجابی‎	pa
+Pāli	पाऴि	pi
+Persian	فارسی	fa
+Polish	język polski, polszczyzna	pl
+Pashto, Pushto	پښتو	ps
+Portuguese	português	pt
+Romansh	rumantsch grischun	rm
+Romanian, Moldavian(Romanian from Republic of Moldova)	limba română	ro
+Russian	русский язык	ru
+Sanskrit (Saṁskṛta)	संस्कृतम्	sa
+Sardinian	sardu	sc
+Sindhi	सिन्धी, سنڌي، سندھی‎	sd
+Serbian	српски језик	sr
+Scottish Gaelic; Gaelic	Gàidhlig	gd
+Sinhala, Sinhalese	සිංහල	si
+Slovak	slovenčina, slovenský jazyk	sk
+Slovene	slovenski jezik, slovenščina	sl
+Spanish; Castilian	español, castellano	es
+Swedish	Svenska	sv
+Tamil	தமிழ்	ta
+Telugu	తెలుగు	te
+Tajik	тоҷикӣ, toğikī, تاجیکی‎	tg
+Ukrainian	українська мова	uk
+Urdu	اردو	ur
+Walloon	walon	wa
+Welsh	Cymraeg	cy
+Western Frisian	Frysk	fy
+Yiddish	ייִדיש	yi
+Oriya	ଓଡ଼ିଆ	or
+Japanese	日本語 (にほんご)	ja
+Basque	euskara, euskera	eu
+Korean	한국어 (韓國語), 조선어 (朝鮮語)	ko
+Mongolian	монгол	mn
+Akan	Akan	ak
+Bambara	bamanankan	bm
+Chichewa; Chewa; Nyanja	chiCheŵa, chinyanja	ny
+Ewe	Eʋegbe	ee
+Fula; Fulah; Pulaar; Pular	Fulfulde, Pulaar, Pular	ff
+Herero	Otjiherero	hz
+Igbo	Asụsụ Igbo	ig
+Kikuyu, Gikuyu	Gĩkũyũ	ki
+Kinyarwanda	Ikinyarwanda	rw
+Kongo	KiKongo	kg
+Kwanyama, Kuanyama	Kuanyama	kj
+Ganda	Luganda	lg
+Lingala	Lingála	ln
+Luba-Katanga	Tshiluba	lu
+North Ndebele	isiNdebele	nd
+Ndonga	Owambo	ng
+South Ndebele	isiNdebele	nr
+Kirundi	Ikirundi	rn
+Shona	chiShona	sn
+Southern Sotho	Sesotho	st
+Swahili	Kiswahili	sw
+Swati	SiSwati	ss
+Tswana	Setswana	tn
+Tsonga	Xitsonga	ts
+Twi	Twi	tw
+Venda	Tshivenḓa	ve
+Wolof	Wollof	wo
+Xhosa	isiXhosa	xh
+Yoruba	Yorùbá	yo
+Zulu	isiZulu	zu
+Kanuri	Kanuri	kr
+Avaric	авар мацӀ, магӀарул мацӀ	av
+Chechen	нохчийн мотт	ce
+Abkhaz	аҧсуа бызшәа, аҧсшәа	ab
+Quechua	Runa Simi, Kichwa	qu
+Burmese	ဗမာစာ	my
+Chinese	中文 (Zhōngwén), 汉语, 漢語	zh
+Dzongkha	རྫོང་ཁ	dz
+Nuosu	ꆈꌠ꒿ Nuosuhxop	ii
+Tibetan Standard, Tibetan, Central	བོད་ཡིག	bo
+Georgian	ქართული	ka
+Lao	ພາສາລາວ	lo
+Thai	ไทย	th
+Zhuang, Chuang	Saɯ cueŋƅ, Saw cuengh	za
+Guaraní	Avañe'ẽ	gn
+Azerbaijani	azərbaycan dili	az
+Bashkir	башҡорт теле	ba
+Chuvash	чӑваш чӗлхи	cv
+Kazakh	қазақ тілі	kk
+Kyrgyz	Кыргызча, Кыргыз тили	ky
+Turkmen	Türkmen, Түркмен	tk
+Turkish	Türkçe	tr
+Tatar	татар теле, tatar tele	tt
+Uighur, Uyghur	Uyƣurqə, ئۇيغۇرچە‎	ug
+Uzbek	O'zbek, Ўзбек, أۇزبېك‎	uz
+Estonian	eesti, eesti keel	et
+Finnish	suomi, suomen kieli	fi
+Hungarian	magyar	hu
+Komi	коми кыв	kv
+Northern Sami	Davvisámegiella	se

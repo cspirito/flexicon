@@ -1,0 +1,31 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabel">Oops!</h3>
+  </div>
+  <div class="modal-body">
+	  <p class="text-error">There has been an error! <br/>Please see below for details.</p>
+	  {{#if FlexiconEmber.error}}
+	  <ul>
+	  	{{#each str in FlexiconEmber.error}}
+		<li>{{str}}</li>
+		{{/each}}
+	</ul>
+	  {{else}}
+		  <p>Unexpected error. Please alert an administrator.</p>
+	  {{/if}}
+  </div>
+  <div class="modal-footer">
+    <button class="btn btn-info" data-dismiss="modal">Okay</button>
+  </div>
+</div>

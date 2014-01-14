@@ -1,0 +1,28 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<h2>{{t entry.new}}</h2>
+<form>
+    <div>
+      <label {{bindAttr for="firstNameField.field_id"}}>{{t entry.term}}</label>
+      {{view Ember.TextField valueBinding='term' name='term' viewName='firstNameField'}}
+    </div>
+    <div>
+      <label {{bindAttr for='languageFld.elementId'}}>{{t language.title}}</label>
+      {{view Ember.Select contentBinding="controller.languages" 
+		 	 			  valueBinding='language' 
+						  name='language'
+						  optionValuePath="content"
+ 						  optionLabelPath="content.fullName"
+						  viewName='languageFld'
+						  class='input input-xxlarge'}}
+    </div>
+	<button {{action create}} class="btn btn-success"><i class="icon-plus-sign"></i>&nbsp;{{t send}}</button>
+</form>

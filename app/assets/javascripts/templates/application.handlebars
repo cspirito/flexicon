@@ -1,0 +1,115 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<div id="wrapper">
+<div class="container" style="padding-bottom:60px;">
+  <div class="masthead">
+    <ul class="nav nav-pills pull-right">
+      <li class="current">{{#linkTo "index"}}<i class="icon-home"></i> {{t home.title}}{{/linkTo}}</li>
+      <li>{{#linkTo "entries.index"}}<i class="icon-book"></i>&nbsp;{{t entry.title}}{{/linkTo}}</li>
+      <li>{{#linkTo "users.index"}}<i class="icon-group"></i>&nbsp;{{t user.title}}{{/linkTo}}</li>
+    </ul>
+    <h1>{{#linkTo "index"}}Flexicon{{/linkTo}}</h1>
+  </div>
+  
+  <div class="row">
+    <div class="span12">
+      <form class="form-search">
+        <div class="input-append">
+          <input type="text" class="span6" autocomplete="off" id="terminput" type="search" {{translateAttr placeholder="search.empty"}}>
+          <div class="btn-group">
+            <button id="searchbtn" class="btn btn-search" type="button" {{action showSearchTerm}}><i class="icon-search"></i>&nbsp;{{t search}}</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+    
+    
+  
+  <div class="row">
+    <div class="span9">
+      {{outlet}}
+    </div>
+    
+    <div class="span3">
+      <div class="sidebar">
+        <ul class="nav nav-list">
+          <li class="nav-header">
+            <span {{bindAttr for='languageFld.elementId'}}>{{t language.preferred}}</span>
+            {{view Ember.Select contentBinding="FlexiconEmber.activeLanguages" 
+                    valueBinding='FlexiconEmber.selectedLanguage' 
+                    name='language'
+                    prompt='-- All --'
+                    optionValuePath="content"
+                    optionLabelPath="content.fullName"
+                    viewName='languageFld'
+                        classNames="fullWidth"}}
+          </li>
+          <li class="divider"></li>
+          <li class="nav-header">
+            <span {{bindAttr for='fLanguageFld.elementId'}}>{{t language.flexicon}}</span>
+            {{view Ember.Select contentBinding="FlexiconEmber.locales" 
+                    valueBinding='FlexiconEmber.flexiconLanguage' 
+                    name='language'
+                    prompt='Change Language...'
+                    optionValuePath="content.locale"
+                    optionLabelPath="content.name"
+                    viewName='fLanguageFld'
+                        classNames="fullWidth"}}
+          </li>
+          <li class="divider"></li>
+          <li class="nav-header">{{t actions}}</li>
+          {{#if FlexiconEmber.Auth.signedIn}}
+            <li>{{#linkTo "entries.new"}}<i class="icon-plus"></i>&nbsp;{{t entry.new}}{{/linkTo}}</li>
+          {{/if}}
+          <li><a href="#" {{action randomTerm}}><i class="icon-random"></i>&nbsp;{{t entry.random.view}}</a></li>
+          {{#if FlexiconEmber.Auth.signedIn}}
+            <li>{{#linkTo "feedback"}}<i class="icon-quote-left"></i>&nbsp;{{t feedback.send}}{{/linkTo}}</li>
+          {{/if}}
+          <li class="divider"></li>
+        </ul>
+      {{ view FlexiconEmber.AuthView }}
+      </div>
+    </div><!-- span3 -->
+  </div>  
+</div><!-- end container -->
+
+<div class="push"></div>
+
+</div><!-- end #wrapper -->
+
+<div id="footer">
+  <div class="container">
+    <p class="credit muted"><strong>Copyright &copy; 2013 MITRE Corporation. ALL RIGHTS RESERVED.</strong><br>
+    The <a href="http://www.mitre.org">MITRE Corporation</a>
+			is a not-for-profit organization that provides systems engineering,
+			research and development, and information technology support to the government.
+    </p>    
+  </div>
+</div>
+
+<script type="text/javascript">
+	$('#terminput').typeahead({
+		items: 5,
+		source: function(query, process) {
+			$.getJSON('entry/search/' + query + '.json', function(data) {
+				process(data);
+			});
+		}
+	});
+	$('#terminput').bind('keyup', function(evt) {
+		if(evt.which == 13 && this.value) { //Enter keycode
+		   $('#searchbtn').click();
+		}
+	});
+</script>
+
+{{partial errorModal}}

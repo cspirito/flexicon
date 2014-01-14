@@ -1,0 +1,26 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<div class="row">
+  <article class="artifact">
+    <p class="span8 creator">{{#linkTo "users.show" user}}{{user.name}}{{/linkTo}} <span class="muted smaller" title="Created at {{unbound created_at}}">{{parseShortDate created_at}}</span></p>
+    <div class="span4">
+      <p class="usage">«{{usage}}»</p>
+    </div>
+    <div class="span4">
+      <p class="proposed">{{proposedUsageTranslation}}</p>
+    </div>
+    <div class="span8">
+      <p class="artifact-meta"><strong>{{t artifact.source}}</strong>&nbsp;<span class="source">{{source}}</span> <span class="bull">&bull;</span>
+        <strong>{{t artifact.classification}}</strong>&nbsp;<span class="classification">{{classification}}</span> <span class="bull">&bull;</span>
+        <strong>{{t artifact.notes}}</strong>&nbsp;<span class="notes">{{notes}}</span></p>
+    </div>
+  </article>
+</div>

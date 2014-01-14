@@ -1,0 +1,88 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<h2><i class="icon-user muted"></i>&nbsp;{{email}}</h2>
+{{#if this.isCurrentUser}}
+{{#linkTo "users.edit" this tagName="button" classNames="btn btn-mini btn-warning"}}
+	{{t user.edit}}
+{{/linkTo}}
+{{/if}}
+
+<div class="row user-view">
+	<div class="span9">
+	  <h4>{{t user.profile}}</h4>
+    <dl class="dl-horizontal">
+      <dt>{{t user.name}}</dt>
+      <dd>{{name}}</dd>
+     </dl>
+    <dl class="dl-horizontal">
+      <dt>{{t user.email}}</dt>
+      <dd><a href="mailto:{{unbound email}}"><i class="icon-envelope-alt"></i> {{email}}</a></dd>
+     </dl>
+     <dl class="dl-horizontal">
+      <dt>{{t user.jobtitle}}</dt>
+      <dd>{{jobTitle}}</dd>
+     </dl>
+     <dl class="dl-horizontal">
+      <dt>{{t user.organization}}</dt>
+      <dd>{{organization}}</dd>
+      </dl>
+    <dl class="dl-horizontal">
+      <dt>{{t user.phone}}</dt>
+      <dd>{{phone}}</dd>
+		</dl>
+	</div>
+</div>
+<div class="row user-view">
+	<div class="span3">
+		<h4>{{t stats.karma}}</h4>
+		<label>{{t stats.karma.definition}}</label>
+		{{karma definition_score definition_votes}}
+		<br>
+		<label>{{t stats.karma.comment}}</label>
+		{{karma comment_score comment_votes}}
+	</div>
+	<div class="span3 stats">
+		<h4>{{t stats.submission}}</h4>
+		<ul class="unstyled">
+      <li><b class="badge badge-info">{{entry_count}}</b>
+      {{pluralize entry_count "Term" }}
+      </li>
+      <li>
+      <b class="badge badge-info">{{definition_count}}</b>
+      {{pluralize definition_count "Definition" }}
+      </li>
+      <li>
+      <b class="badge badge-info">{{artifact_count}}</b>
+      {{pluralize artifact_count "Artifact" }}
+      </li>
+      <li>
+      <b class="badge badge-info">{{comment_count}}</b>
+      {{pluralize comment_count "Comment" }}
+      </li>
+		</ul>
+	</div>
+	<div class="span3">
+		<h4>{{t stats.votes}}</h4>
+		<ul class="unstyled">
+      <li>
+      <b class="badge badge-upvote">{{upvote_count}}</b>
+      {{t stats.votes.up}}
+      </li>
+      <li>
+      <b class="badge badge-downvote">{{downvote_count}}</b>
+      {{t stats.votes.down}}
+      </li>
+      <li><b class="badge badge-info">{{total_vote_count}}</b>
+	  {{t stats.votes.total}}
+      </li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,35 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<h1>{{term}}</h1>
+<p class="muted">{{language.fullName}}</p>
+
+<div id="definitions">
+		{{#if FlexiconEmber.Auth.signedIn}}
+			<h5>{{#linkTo "definitions.new" class='add-definition'}}<i class="icon-plus-sign-alt"></i> {{t definition.add}}{{/linkTo}}</h5>
+		{{/if}}
+		{{render "definitions.index" definitions}}
+	</div>
+
+
+<div id="comments">
+	<h4><i class="icon-comments muted"></i>&nbsp;{{t comment.section}}</h4>
+	{{render "comments.index" comments}}
+	{{#if FlexiconEmber.Auth.signedIn}}
+		{{#if newCommentShown}}
+			<button class="btn btn-info" {{action "hideCommentForm"}}>{{t hide}}</button>
+			{{render "comments.new"}}
+		{{else}}
+			<button class="btn btn-info" {{action "showCommentForm"}}>{{t comment.add}}</button>
+		{{/if}}
+	{{else}}
+	  <p class="muted">{{t comment.requirement}}</p>
+	{{/if}}
+</div>

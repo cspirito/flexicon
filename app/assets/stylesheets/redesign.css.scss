@@ -1,0 +1,173 @@
+/*
+ * NOTICE
+ * 
+ * This software was produced for the U. S. Government
+ * under Contract No. FA8702-13-C-0001, and is
+ * subject to the Rights in Noncommercial Computer Software
+ * and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+ *
+ *  2013 The MITRE Corporation. All Rights Reserved.
+ */
+/* variables */
+$borderColor : #e5e5e5;
+
+* {
+  margin:0;
+}
+html, body {
+  height: 100%; }
+body {padding:0;}
+
+body>.ember-view {
+  position:relative;
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+}
+
+/* Utility classes */
+.smaller {  
+  font-size:80%;
+}
+.required {
+  color:red;
+  font-size:120%;
+}
+.muted {
+  color:#808080;
+}
+h1,h2,h3,h4,h5 {
+  font-weight:200;
+}
+
+/* layout styles */
+.masthead h1 a:hover {text-decoration:none}
+
+.page-header {
+  padding-bottom:5px;
+  margin-bottom:20px;
+  border-color:$borderColor;
+}
+
+.sidebar .nav.nav-list {
+  padding-left:0;
+  .nav-header.in-form {
+    margin-top:0;
+  }
+}
+
+/* definition styles */
+#definitions, #add-definitions {
+  border-top:1px solid $borderColor;
+  h5 {margin:0;}
+  .add-definition, .add-artifact {
+    display:inline-block;
+    padding:5px;
+    margin-top:5px;
+    font-weight:bold;
+    &:hover {
+    background-color:#f0f0f0;
+    border-radius:2px;
+    text-decoration:none;
+    }
+  }
+}
+.definition h2 {
+  margin-bottom: 0;
+}
+
+/* artifact styles */
+.proposed {
+  color: #555;
+  strong {
+    color:black;
+  }
+}
+.artifact .creator {
+  margin-bottom:0;
+}
+  
+.artifact-meta {
+  font-size:90%;
+  color:#666;
+  border-bottom:1px solid $borderColor;
+  padding-bottom:10px;
+  margin-bottom:0;
+  .bull { color:#999; margin:0 5px; clear:left; }
+}
+
+/* comment styles */
+#comments {
+  margin-top:25px;
+  &>h4 {
+    border-bottom:1px solid $borderColor;
+    padding-bottom:10px;
+  }
+}
+.comment {
+  padding-top:5px;
+  padding-bottom:20px;
+}
+.comment-info {
+  text-align:left;
+}
+.comment-message {
+}
+.new-comment {margin-top:15px;}
+.comment-rating {
+  text-align:right;
+  color:#999;
+  span.rate-up {
+    color:#363;
+    cursor:pointer;
+    margin-right:5px;
+  }
+  span.rate-down {
+    color:#a55;
+    cursor:pointer;
+    margin-left:5px;
+  }
+}
+.definition-rating {
+  text-align:left;
+  color:#999;
+  span.rate-up {
+    color:#363;
+    cursor:pointer;
+    margin-right:5px;
+  }
+  span.rate-down {
+    color:#a55;
+    cursor:pointer;
+    margin-left:5px;
+  }
+}
+
+/* user styles */
+.user-view {
+  margin-bottom:20px;
+  dl {margin-bottom:0;}
+  li {margin-bottom:3px;}
+  h4 {border-bottom:1px solid $borderColor; padding-bottom:10px;}
+  .badge-upvote {background-color:#363;}
+  .badge-downvote {background-color:#c33;}
+}
+/* layout styles */
+/* The footer is a 'sticky' footer, .push is used to add a margin between the bottom
+   of the main content and the footer.
+*/
+.push {height:7em;}
+
+#footer {
+  background-color: #f0f0f0;
+  width:100%;
+  position:absolute;
+  bottom:0;
+  box-shadow:inset 0 6px 20px -12px #666;
+  p.credit {
+    background:url(/images/mitre_footer.png) top left no-repeat;
+    padding-left:80px;
+    margin: 20px 0;
+    font-size: 85%;
+  }
+}

@@ -1,0 +1,25 @@
+# NOTICE
+
+# This software was produced for the U. S. Government
+# under Contract No. FA8702-13-C-0001, and is
+# subject to the Rights in Noncommercial Computer Software
+# and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+#  2013 The MITRE Corporation. All Rights Reserved.
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  helpers:
+    actions: "Actions"
+    links:
+      back: "Back"
+      cancel: "Cancel"
+      confirm: "Are you sure?"
+      destroy: "Delete"
+      new: "New"
+    titles:
+      edit: "Edit"
+      save: "Save"
+      new: "New"
+      delete: "Delete"

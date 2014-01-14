@@ -1,0 +1,33 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<div class="row definition">
+  <div class="span8">
+    <h2>{{text}}</h2>
+    <div class="definition-rating">
+      <span class="rate-up" title="Up-vote this comment" {{action upvote}}>
+        <i class="icon-chevron-up"></i> {{votes_for}} </span>|
+      <span class="rate-down" title="Down-vote this comment" {{action downvote}}>
+        <i class="icon-chevron-down"></i> {{votes_against}}</span>
+    </div>
+    <p>{{#linkTo "users.show" user}}{{user.name}}{{/linkTo}}
+       <span class="muted smaller" title="Created at {{unbound created_at}}">{{parseShortDate created_at}}</span>
+    </p>
+  </div>
+</div>
+
+{{render "artifacts.index" artifacts}}
+
+{{#if FlexiconEmber.Auth.signedIn}}
+<h5>{{#linkTo "artifacts.new" this class='add-artifact'}}
+	  <i class="icon-plus-sign"></i>&nbsp;{{t artifact.add}}
+	{{/linkTo}}
+</h5>
+{{/if}}

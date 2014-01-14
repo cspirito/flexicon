@@ -1,0 +1,34 @@
+<!--
+NOTICE
+
+This software was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Noncommercial Computer Software
+and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
+
+ 2013 The MITRE Corporation. All Rights Reserved. 
+-->
+<h2><i class="icon-group muted"></i>&nbsp;{{t user.title}}</h2>
+
+<table class="table table-hover">
+	<thead>
+		<tr>
+			<th>{{t user.name}}</th>
+			<th>{{t user.email}}</th>
+		</tr>
+	</thead>
+	<tbody>
+		{{#each user in controller}}
+			<tr>		
+				<td>{{#linkTo 'users.show' user}}{{user.name}}{{/linkTo}}</td>
+				<td>{{user.email}}</td>
+			</tr>
+		{{else}}
+			<tr>
+				<td colspan="2">
+					<i class="icon-spin icon-spinner icon-large"></i> Loading...
+				</td>
+			</tr>
+		{{/each}}
+	</tbody>
+</table>

@@ -1,0 +1,662 @@
+NOTICE
+
+This technical data was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Technical Data-Noncommercial
+Items Clause (DFARS) 252.227-7013 (NOV 1995)
+ 2013 The MITRE Corporation. All Rights Reserved.
+
+128-bit key	28-битовый ключ	
+a posteriori 	апостериорный	
+a posteriori probability 	апостериорная вероятность	
+a priori probability	априорная вероятность	
+A2-code	А2-код	
+ABC	АЧК	rudiment: the elementary stages of any subject (usually plural); &quot;he mastered only the rudiments of geometry&quot;
+abuse-free	не допускающий злоупотреблений	
+access as an authenticator	принимать в качестве аутентификатора	
+access control cryptosystem	доступ криптосистема управления доступом	
+A-code	А-код	
+activation key 	ключ активации ,ключ активации криптографического устройства	The Activation Key is the series of numbers and letters that you will receive from the Online Product Activation (OPA) servers which allows you to activate your Autodesk product once it has been installed. ...
+active adversary	Активный противник	
+active attack	активная атака,активное нападение	An attack which results in an unauthorized state change, such as the manipulation of files, or the adding of unauthorized files.
+active eavesdropping 	активный перехват 	
+actually used key	фактически используемый ключ	
+adaptive	адаптивный, настраиваемый	having a capacity for adaptation; &quot;the adaptive coloring of a chameleon&quot;
+adaptive channel allocation	динамическое мультиплексирование, адаптивное распределение каналов	
+adaptive chosen cipher text	избирательный шифрованный текст	
+adaptive chosen cipher text attack	адаптивная атака с выбором шифртекста	
+adaptive chosen plaintext	избирательный открытый текст,адаптивная открытый текст	A special case of the chosen-plaintext attack in which the cryptanalyst is able to choose plaintexts dynamically, and alter his or her choices based on the results of previous encryptions.
+adaptive chosen plaintext attack	адаптивная атака с выбором открытого текста	A chosen-plaintext attack (CPA) is an attack model for cryptanalysis which presumes that the attacker has the capability to choose arbitrary plaintexts to be encrypted and obtain the corresponding ciphertexts. ...
+adaptive chosen-message attack	адаптивная атака с выбором сообщений	
+adaptive chosen-plaintext attack secure	защищённый от адаптивной атаки на основе выбранного открытого текста 	
+add bit by bit 	складывать бит за битом	
+add bitwise	складывать побитово	
+additional key 	дополнительный ключ	
+additive cipher	шифр аддитивный	
+additive combiner 	аддитивный смеситель 	An additive combiner uses numerical concepts similar to addition to mix multiple values into a single result. One example is byte addition modulo 256, which simply adds two byte values, each in the range 0.. ...
+additive stream cipher	аддитивный шифр	
+add-on cryptographic software package	дополнительный пакет программ для выполнения криптографических функций	
+adjacent network nodes	соседние узлы сети	
+Adleman	Адельман	Adleman is a surname and may refer to: * Leonard Adleman (b. 1945), American theoretical computer scientist and professor of computer science and molecular biology * Robert H. Adleman (1919 - 1995), American novelist and historian * Taylor Adleman (b. ...
+advance distribution of keys	предварительное распределение ключей	
+advances  in cryptology	достижения криптологии	
+AES	стандарт AES,Продвинутый Стандарт Шифрования	In cryptography, the Advanced Encryption Standard (AES) is a symmetric-key encryption standard adopted by the U.S. government. The standard comprises three block ciphers, AES-128, AES-192 and AES-256, adopted from a larger collection originally published as Rijndael. ...
+agree on a key in advance	заранее договориться о ключе	
+A-key 	В-ключ	
+Alberti 	Альберти	Italian architect and painter; pioneering theoretician of Renaissance architecture (1404-1472)
+algebra of logic	алгебра логики	Boolean algebra (or Boolean logic) is a logical calculus of truth values, developed by George Boole in the 1840s. ...
+algebra of residue classes	алгебра остаточных классов	
+algebraic attack	алгебраическая атака	A method of cryptanalytic attack used against block ciphers that exhibit a significant amount of mathematical structure.
+algebraic normal form	алгебраическая нормальная форма	In Boolean logic, the algebraic normal form (ANF) is a method of standardizing and normalizing logical formulas. ...
+algorithmic	алгоритмический,алгоритмика	of or relating to or having the characteristics of an algorithm
+algorithmic access	алгоритмический доступ	
+Allied Communications and Computer Security Agency	Агентство коммуникационной и компьютерной безопасности объединённых вооружённых сил	
+all-key attack 	атака с перебором всех возможных вариантов ключа	
+allophone 	аллофон 	(linguistics) any of various acoustically different forms of the same phoneme
+almost perfect non-linear function	почти совершенная нелинейная функция	
+alphanumerical	буквенно-цифровой ключ	alphanumeric: of or pertaining to alphanumeric characters
+alterable key 	изменяемый ключ	
+alternative hypothesis 	альтернативная гипотеза	In statistical hypothesis testing, the alternative hypothesis (or maintained hypothesis or research hypothesis) and the null hypothesis are the two rival hypotheses which are compared by a statistical hypothesis test. ...
+amateur cryptanalyst 	криптоаналитик-любитель	
+ambiguous cryptogram 	неоднозначная криптограмма	
+American Black Chamber	Американский чёрный кабинет	The Black Chamber, otherwise known as MI-8 or Cipher Bureau, was the United States&#39; first peacetime cryptanalytic organization, and a forerunner of the National Security Agency. ...
+American Cryptogram Association	Американская крипто логическая ассоциация	The American Cryptogram Association is an American non-profit organization devoted to the hobby of cryptography, with an emphasis on types of codes, ciphers, and cryptograms that can be solved either with pencil and paper, or with computers, but not computer-only systems.
+A-mode	А-режим 	
+amount of information in a message	количество информации в сообщении	
+anagram 	анаграмма	a word or phrase spelled by rearranging the letters of another word or phrase
+analog communication 	аналоговая связь	An Analog or analogue signal is any continuous signal for which the time varying feature (variable) of the signal is a representation of some other time varying quantity, i.e., analogous to another time varying signal. ...
+analysis of pseudorandom number generators	анализ генераторов псевдослучайных чисел	
+analyzability 	подверженность криптоанализу	(analyzable) capable of being partitioned
+ancestor key 	предшествующий ключ,исходный ключ	
+ANF 	АНФ 	ANF is a French company specializing in property management, primarily in Lyon and Marseille. It is listed on the Paris Bourse.
+ANSI 	АНИС 	The American National Standards Institute or ANSI is a private non-profit organization that oversees the development of voluntary consensus standards for products, services, processes, systems, and personnel in the United States. The organization also coordinates U.S. ...
+APNF 	ПСНФ 	
+append MAC to information being authenticated	добавлять КАС к информации, подлежащей аутентификации	
+application directed cryptography 	прикладная криптография	
+applied cryptanalysis 	прикладной криптоанализ	
+appropriate key 	соответствующий ключ	
+arbitrary chosen key	произвольно выбранный ключ	
+arbitrary key 	произвольный ключ	
+as yet unbroken knapsack cryptosystem	все ещё невскрытая ранцевая криптосистема	
+ASCII 	АСКОИ 	American Standard Code for Information Interchange: (computer science) a code for information exchange between computers made by different companies; a string of 7 binary digits represents each character; used in most microcomputers
+Asiacrypt 	Азиякрипто	Asiacrypt (also ASIACRYPT) is an important international conference for cryptography research. The full name of the conference is currently International Conference on the Theory and Application of Cryptology and Information Security, though this has varied over time. ...
+assess security of cryptosystems 	оценивать стойкость криптосистем	
+asymmetric	Асимметричная 	asymmetrical: characterized by asymmetry in the spatial arrangement or placement of parts or components
+asymmetric cipher	Асимметричный шифр	Alternative term for asymmetric encipherment system. [SC27] (see also encipherment, system, asymmetric cryptography, cipher)
+asymmetric cryptography	криптография с открытыми ключами	Public-key cryptography is a cryptographic approach which involves the use of asymmetric key algorithms instead of or in addition to symmetric key algorithms. Unlike symmetric key algorithms, it does not require a secure  initial exchange of one or more secret keys to both sender and receiver. ...
+asymmetric encryption	асимметричное шифрование	Public-key cryptography is a cryptographic approach which involves the use of asymmetric key algorithms instead of or in addition to symmetric key algorithms. Unlike symmetric key algorithms, it does not require a secure  initial exchange of one or more secret keys to both sender and receiver. ...
+asymmetrical modulation	асимметричная модуляция	A duplex transmission technique that splits the communications channel into one high-speed channel and one slower channel. During a call under asymmetrical modulation, the modem with the greater amount of data to transmit is allocated the high-speed channel. ...
+asymmetrically encrypted 	зашифрованный с помощью асимметричного алгоритма 	
+asynchronous attack secure	защищённый от асинхронной атаки	
+attack by iteration	криптоанализ методом итераций	
+attack DES	пытаться вскрыть DES 	
+attack proof 	криптостойкий,стойкий к криптоанализу	
+audio encryption 	шифрование звуковых сигналов	
+Auscrypt 	Авскрипто	Asiacrypt (also ASIACRYPT) is an important international conference for cryptography research. The full name of the conference is currently International Conference on the Theory and Application of Cryptology and Information Security, though this has varied over time. ...
+authentic messages 	истинные сообщения	
+authenticate a message	аутентифицировать сообщение	
+authenticated 	аутентифицированный	attested: established as genuine
+authenticated communication 	связь с аутентификацией партнёров,связь с взаимной аутентификацией партнёров	
+authentication code with arbitration	аутентификационный код с арбитражем	
+authentication exchange 	проверка подлинности с обменом информацией	(I) A mechanism to verify the identity of an entity by means of information exchange. (O) &#39;A mechanism intended to ensure the identity of an entity by means of information exchange.&#39; [RFC2828] (see also entity, identity, information, authentication)
+authentication function	аутентификационная функция	
+authentication pattern 	комбинация для аутентификации	An 8-byte pattern that ICSF calculates from the master key when initializing the cryptographic key data set. ICSF places the value of the authentication pattern in the header record of the cryptographic key data set.
+authentication problem 	 задача проверки на достоверность 	
+authenticity system 	система с проверкой подлинности	
+authorized key	назначенный ключ	
+authorized originator for messages	санкционированный источник сообщений	
+autokey 	автоключ	AutoKey is a text expansion/replacement utility for Linux and X11. It is heavily inspired by the commercial Windows software &#39;PhraseExpress&#39; and the user interface is almost identical. It receives keyboard events using one of several methods and uses X events to drive the expansions. ...
+autokey cipher system	автоключевая шифрсистема 	
+autokeying 	шифрование на автоключе,формирование автоключа	
+automated cryptanalysis	автоматизированный криптоанализ 	
+automorphism 	автоморфизм	In mathematics, an automorphism is an isomorphism from a mathematical object to itself. It is, in some sense, a symmetry of the object, and a way of mapping the object to itself while preserving all of its structure. ...
+auto-session	автоматически генерируемый для сеанса	
+auto-session key	автоматически генерируемый сеансовый ключ	
+avalanche 	снежная лавина	a slide of large masses of snow and ice and mud down a mountain
+backup 	создание резервных копий	an accumulation caused by clogging or a stoppage; &quot;a traffic backup on the main street&quot;; &quot;he discovered a backup in the toilet&quot;
+backward asymmetric encryption	шифрование с обратной асимметрией	
+Baconian 	бэконовский	of or pertaining to Lord Bacon or his system of philosophy
+Baconian cipher 	бэконовский шифр	Bacon&#39;s cipher or the Baconian cipher is a method of steganography (a method of hiding a secret message as opposed to a true cipher) devised by Francis Bacon. A message is concealed in the presentation of text, rather than its content.
+Bad-Guy	злоумышленник	
+balanced 	сбалансированный	being in a state of proper equilibrium; &quot;the carefully balanced seesaw&quot;; &quot;a properly balanced symphony orchestra&quot;; &quot;a balanced assessment of intellectual and cultural history&quot;; &quot;a balanced blend of whiskeys&quot;; &quot;the educated man shows a balanced development of all his powers&quot;
+balanced function 	сбалансированная функция	
+band scrambler	спектрально-полосный скремблер	
+band scrambler-inverter 	пектрально-полосный скремблер с инверсией отдельных полос	
+band shift 	сдвиг частотных полос	
+band shift inverter	скремблер со сдвигом частотных полос и инверсией частот	
+band splitting 	разделение спектра сигнала на отдельные полосы	
+batch key 	групповой ключ 	
+B-Crypt	Б-Крипто	
+Beaufort 	Бофор 	Beaufort was a German manufacturer of automobiles solely for the British market. It existed from 1902 - 1919 and was created with English capital.
+Beaufort square 	квадрат Бофора	
+best of known attacks on a cipher	наилучший из методов криптоанализа данного шифра	
+best possible cryptanalytic algorithm	наилучший крипто аналитический алгоритм 	
+Beurling 	Бёрлинг 	Beurling is a surname and may refer to: * Arne Beurling, Swedish mathematician * George Beurling, Canadian fighter pilot
+bicomposite 	двухсоставный	
+bicomposite modulus 	двухсоставный модуль	
+bidirectional 	двухсторонний	reactive or functioning or allowing movement in two usually opposite directions
+bidirectional asymmetric encryption	шифрование с двухсторонней асимметрией	
+bidirectional key 	двухсторонний ключ	
+Big Brother	Большой Брат	an authoritarian leader and invader of privacy
+bigram 	биграмма 	a word that is written with two letters in an alphabetic writing system
+bigram cipher 	биграммный шифр	
+bigram count 	маркировка биграмм	
+bigram frequency 	частота встречаемости биграмм	Bigrams or digrams are groups of two written letters, two syllables, or two words, and are very commonly used as the basis for simple statistical analysis of text. They are used in one of the most successful language models for speech recognition.  They are a special case of N-gram.
+bijection 	биекция 	In mathematics, a bijection, or a bijective function, is a function f from a set X to a set Y with the property that, for every y in Y, there is exactly one x in X such that f(x) = y. It follows from this definition that no unmapped element exists in either X or Y.
+bijective 	биективный	In mathematics, a bijection, or a bijective function, is a function f from a set X to a set Y with the property that, for every y in Y, there is exactly one x in X such that f(x) = y. It follows from this definition that no unmapped element exists in either X or Y.
+bijective public-key cryptosystem	биективная криптосистема с открытым ключом 	
+bilateral 	двухсторонний	having identical parts on each side of an axis
+bilateral key	ключ, известный двум пользователям ,ключ для двухсторонней связи	
+bilateral key exchange	двухсторонний обмен ключами 	Bilateral Key Exchange (BKE) was an encryption scheme utilized by The Society for Worldwide Interbank Financial Telecommunications (SWIFT).
+bilinear cipher 	билинейный шифр	
+biliteral cipher alphabet	шифралфавит, составленный из пар символов 	
+binary additive stream cipher	шифр гаммирования с двоичной шифрующей ключевой последовательностью	
+binary cryptosystem 	криптосистема с двоичным ключом	
+binary key 	двоичный ключ	
+binary power 	степень двойки	
+binary sequence generator	генератор двоичных последовательностей 	
+binomial 	биномиальный	of or relating to or consisting of two terms; &quot;binomial expression&quot;
+binomial distribution 	биномиальное распределение 	a theoretical distribution of the number of successes in a finite set of independent trials with a constant probability of success
+birthday attack 	криптоанализ на основе парадокса дней рождения	A birthday attack is a type of cryptographic attack that exploits the mathematics behind the birthday problem in probability theory. This attack can be used to abuse communication between two or more parties.
+Birthday paradox	Парадокс дней рождения	In probability theory, the birthday problem, or birthday paradox pertains to the probability that in a set of randomly chosen people some pair of them will have the same birthday. ...
+birthday paradox 	парадокс дней рождения 	In probability theory, the birthday problem, or birthday paradox pertains to the probability that in a set of randomly chosen people some pair of them will have the same birthday. ...
+bit cipher feedback 	обратная связь по битам шифртекста	
+bit ciphertext feedback cipher	шифр с обратной связью по m битам шифртекста	
+bit differences 	различия в битах	
+bit generator 	binary sequence generator	
+bit map	двоичное отображение	In computer graphics, a bitmap or pixmap is a type of memory organization or image file format used to store digital images. The term bitmap comes from the computer programming terminology, meaning just a map of bits, a spatially mapped array of bits. ...
+bit pattern 	битовая комбинация	A bit or binary digit is the basic unit of information in computing and telecommunications; it is the amount of information that can be stored by a digital device or other physical system that can usually exist in only two distinct states. ...
+bit security 	стойкость по битам	ensures that it is impossible for your details to be stolen or hacked during your payment.
+bit sequence 	битовая последовательность	
+bit stream cipher	поточный шифр с двоичной шифрующей последовательностью	
+bit string 	строка битов	In mathematical logic, more precisely in the theory of formal languages, and in computer science, a string is a sequence of symbols that are chosen from a set or alphabet.
+bit substitution cipher	побитовой замены 	
+bit-by-bit encryption	побитовое шифрование	
+black box cryptanalysis	криптоанализ по методу "чёрного ящика"	
+black chamber 	"чёрный кабинет"	The Black Chamber, otherwise known as MI-8 or Cipher Bureau, was the United States&#39; first peacetime cryptanalytic organization, and a forerunner of the National Security Agency. ...
+Bletchley Park	Блетчли-Парк 	Bletchley Park, also known as Station X, is an estate located in the town of Bletchley, in Buckinghamshire, England. During World War II, Bletchley Park was the site of the United Kingdom&#39;s main decryption establishment, the Government Code and Cypher School. ...
+block 	сцепление блоков	a solid piece of something (usually having flat rectangular sides); &quot;the pyramids were built with large stone blocks&quot;
+block cipher	Шифр блочный,блочный шрифт	In cryptography, a block cipher is a symmetric key cipher operating on fixed-length groups of bits, called blocks, with an unvarying transformation. ...
+block cipher with chaining	блочный шифр со сцеплением блоков	
+block ciphering algorithm	алгоритм блочного шифрования	
+block encryption 	блочное шифрование	
+block frequency analysis	криптоанализ на основе частоты встречаемости	
+block padding 	холостое заполнение блока	
+blocking 	формирование блоков ,разделение на блоки	the act of obstructing or deflecting someone&#39;s movements
+blowfish	блоуфиш,алгоритм BlowFish	delicacy that is highly dangerous because of a potent nerve poison in ovaries and liver
+bogus 	поддельный	fraudulent; having a misleading appearance
+Bombe	Бомба	The bombe was an electromechanical device used by British cryptologists to help decrypt German Enigma-machine-encrypted signals during World War II. The US Navy and US Army produced machines to the same functional specification, but engineered differently.
+book cipher 	книжный шифр	A book cipher is a cipher in which the key is some aspect of a book or other piece of text; books being common and widely available in modern times, users of book ciphers take the position that the details of the key is sufficiently well hidden from attackers in practice. ...
+Boole 	Буль 	English mathematician; creator of Boolean algebra (1815-1864)
+Boolean equation 	булево уравнение	Boolean algebra (or Boolean logic) is a logical calculus of truth values, developed by George Boole in the 1840s. ...
+boot protection encryption	шифрование для защиты начальной загрузки ,шифрование для защиты от начальной загрузки	
+break into a system	взламывать систему 	
+break length 	длина шифр текста, достаточная для вскрытия ключа	
+break time of a base key	время, требуемое для вскрытия основного ключа	
+breakability	вскрываемость шифра,дешифруемость	fragility: quality of being easily damaged or destroyed
+breakable cipher	Шифр несовершенный	
+broadcast authetication	аутентификация при циркулярной передаче	
+broadcast channel 	канал циркулярной передачи	A number assigned to each channel for specific types of information that is available on each channel.
+broadcast encryption scheme	схема шифрования для циркулярной связи	
+built-in encryption device	групповой шифратор	
+built-in encryption module	встроенный модуль шифрования	
+built-in key	вмонтированный ключ 	
+bulk encryption	общее шифрование	Link encryption is an approach to communications security that encrypts and decrypts all traffic at each end of a communications line (e.g. a teletype circuit or the line between two network switches). ...
+burst communication 	сверхбыстрая пакетная связь	
+by-pass mode 	 режим обхода	
+byte oriented block-ciphering algorithm 	алгоритм побайтового блочного шифрования 	
+byte substitution table	таблица байтовых замен 	
+byte transposition cipher 	шифр побайтовой перестановки	
+Byzantine agreement protocol	Протокол византийского соглашения	
+Caesar 	Цезарь 	conqueror of Gaul and master of Italy (100-44 BC)
+Caesar cipher 	шифр Цезаря 	In cryptography, a Caesar cipher, also known as a Caesar&#39;s cipher, the shift cipher, Caesar&#39;s code or Caesar shift, is one of the simplest and most widely known encryption techniques. ...
+Cambridge ring	кембриджское кольцо	The Cambridge Ring was an experimental local area network architecture developed at the Cambridge University Computer Laboratory in the mid-late 1970s and early 1980s. ...
+Capstone	Кэпстоун	finishing touch: a final touch; a crowning achievement; a culmination
+cargo vector 	вектор груза	
+cascade cipher 	каскадный шифр	
+cascade linear feedback shift registers 	каскадировать регистры сдвига с линейной обратной связью 	
+cascaded connection of shift registers	каскадное соединение регистров сдвига	
+cascaded superencipherment 	каскадное наложение шифров	
+cellular 	клеточный	relating to cells; &quot;cellular walls&quot;; &quot;cellular physiology&quot;
+cellular automaton 	клеточный автомат 	A cellular automaton (pl. cellular automata, abbrev. CA) is a discrete model studied in computability theory, mathematics, physics, complexity science, theoretical biology and microstructure modeling. ...
+central keying authority	центр распределения ключей	
+Central Office for Cryptology	Центральная криптологическая служба	
+Central Security Service	Центральная служба безопасности	The Central Security Service (CSS) is an agency of the United States Department of Defense, established in 1972 by a Presidential Directive to promote full partnership between the National Security Agency (NSA) and the Service Cryptologic Elements (SCE) of the United States Armed Forces.
+centralized key distribution	централизованное распределение ключей	
+centralized key generation	централизованная генерация ключей	
+centralized key management	централизованное управление ключами 	
+centrally produced key	ключ, генерируемый в центре	
+cepstrum 	кепстральный	A cepstrum is the result of taking the Fourier transform (FT) of the log spectrum as if it were a signal. Its name was derived by reversing the first four letters of &quot;spectrum&quot;. There is a complex cepstrum, a real cepstrum, a power cepstrum, and phase cepstrum.
+cepstrum analysis 	кепстральный анализ 	
+certificate revocation list	список аннулированных сертификатов 	In the operation of some cryptosystems, usually public key infrastructures (PKIs), a certificate revocation list (CRL) is a list of certificates (or more specifically, a list of serial numbers for certificates) that have been revoked or are no longer valid, and therefore should not be relied upon.
+certification of origination	удостоверение источника 	
+certified public directory	заверенный открытый справочник	
+chained key 	сцеплённый ключ 	
+Challenge Handshake Authentication Protocol	протокол взаимной аутентификации	In computing, the Challenge-Handshake Authentication Protocol (CHAP) authenticates a user or network host to an authenticating entity. That entity may be, for example, an Internet service provider.
+challenge-response authentication	аутентификация с запросом и подтверждением	
+channel capacity 	пропускная способность канала 	the maximum data rate that can be attained over a given channel
+character dependency 	зависимость символов	
+character frequency 	частота встречаемости букв	
+character oriented communication	посимвольная передача данных	
+character set 	набор символов	an ordered list of characters that are used together in writing or printing
+character to-number replacement	замена знаков числами	
+characteristical polynomial	характеристический многочлен 	
+check decryption 	контрольное расшифрование	
+check sum generator	генератор контрольной суммы	
+check summing 	вычисление контрольной суммы	
+check value 	контрольная величина, контрольное значение	
+Cheltenham 	Челтнем 	Cheltenham , or Cheltenham Spa, is a spa town and borough in Gloucestershire, England with a population of 110,013 at the 2001 census. The inhabitants are known as &quot;Cheltonians&quot;. Its motto is: Salubritas et Eruditio (&quot;Health and Education&quot;).
+chi square criteria	критерий c2 	
+chi square distribution	распределение c2	In probability theory and statistics, the chi-square distribution (also chi-squared or) with k degrees of freedom is the distribution of a sum of the squares of k independent standard normal random variables. ...
+children key 	производный ключ 	
+chosen cipher text attack	атака перебором шифрованного текста	
+chosen-ciphertext attack secure 	защищённый от атаки на основе выбранного шифртекста 	
+chosen-content	на основе выбранного содержимого	
+chosen-content attack 	атака на основе выбранного содержимого	
+chosen-content attack attack secure	защищённый от атаки на основе выбранного содержимого	
+chosen-key attack secure	защищённый от атаки на основе выбранного ключа 	
+chosen-plaintext attack secure	защищённый от атаки на основе выбранного открытого текста	
+chosen-signature attack secure	защищённый от атаки на основе выбранных подписей 	
+chosen-text attack secure	защищённый от атаки на основе выбранного	
+cifax 	шифакс 	
+cipher alphabet	шифралфавит	
+cipher attachment 	приставка-шифратор	
+Cipher Block	блочный шрифт	
+Cipher Block Chaining	сцепление блочного шифра ,связывание блочного шифра 	In cryptography, modes of operation enable the repeated and secure use of a block cipher under a single key.
+cipher busting machine	машина для вскрытия шифра	
+cipher clerk	шифровальщик	
+cipher code 	шифровальный код	
+cipher control byte	байт контроля шифра	
+cipher device 	шифровальная машина	
+cipher feedback 	обратная связь по шифртексту	In cryptography, modes of operation enable the repeated and secure use of a block cipher under a single key.
+cipher function	шифрфункция	
+cipher group 	шифргруппа 	
+cipher machine 	шифровальная машина	In cryptography, a cipher (or cypher) is an algorithm for performing encryption or decryption -- a series of well-defined steps that can be followed as a procedure. An alternative, less common term is encipherment. ...
+cipher punk	шифрпанк 	
+cipher queen 	шифровальщица	
+cipher speak	шифртерминология,шифржаргон	
+cipher text	шифртекст  ,зашифрованный текст,зашифрованные данные, нажатьи отпустить	In cryptography, encryption is the process of transforming information (referred to as plaintext) using an algorithm (called cipher) to make it unreadable to anyone except those possessing special knowledge, usually referred to as a key. ...
+cipher text-only attack	атака только по зашифрованному тексту,Атака с известным шифртекстом	
+ciphered facsimile communication	криптографическая защита факсимильной связи	
+ciphered telephone	шифрованная голосовая телефонная связь	
+ciphering algorithm 	алгоритм шифрования	
+ciphering generator	генератор шифрующих	
+ciphering method	метод шифрования	
+ciphering mode 	режим шифрования	
+ciphertext associated with a given key	шифртекст, полученный на данном ключе	
+ciphertext autokey cipher	шифр с автоключом, зависящим от шифртекста	
+ciphertext character 	знак шифртекста	
+ciphertext file 	файл с шифртекстом	
+ciphertext generator 	генератор шифртекста	
+ciphertext message  	шифрованное сообщение	
+ciphertext only attack	атака на основе знания одного только шифртекста	In cryptography, a ciphertext-only attack (COA) or known ciphertext attack is an attack model for cryptanalysis where the attacker is assumed to have access only to a set of ciphertexts.
+ciphertext only attack secure	защищённый от атаки на основе знания одного только шифртекста 	
+ciphony 	 криптографическая защита телефонной связи	Secure voice (alternatively secure speech or ciphony) is a term in cryptography for devices which are designed to provide voice encryption for voice communication over a range of communication types such as radio, telephone or IP.
+civilian cryptography 	криптография для гражданских нужд	
+civision 	криптографическая защита телевизионных передач,шифрованная телевизионная передача	In telecommunications, civision is the use of encryption when broadcasting television signals.
+classified work in cryptography	закрытые работы по криптографии 	
+clear override 	переключение с открытой на шифрованную связь 	
+clearance 	допуск,право доступа	the distance by which one thing clears another; the space between them
+cleartext chiphertext expansion	расширение шифртекста относительно открытого текста	
+cloak 	генератор "белого шума"	anything that covers or conceals
+clock controlled shift register	регистр сдвига с тактированием 	
+code breaking algorithm	алгоритм вскрытия кода	
+code character 	символ кода	A character encoding system consists of a code that pairs each character from a given repertoire with something else, such as a sequence of natural numbers, octets or electrical pulses, in order to facilitate the transmission of data (generally numbers and/or text) through telecommunication ...
+code maker	составитель кода	(Code making) Cryptography (or cryptology; from Greek κρυπτός, kryptos, &quot;hidden, secret&quot;; and , gráph, &quot;writing&quot;, or , -logia, respectively) is the practice and study of hiding information. Modern cryptography intersects the disciplines of mathematics, computer science, and engineering. ...
+code translation 	перекодирование 	
+code word 	кодовое слово,кодообозначение	In communication, a code word is an element of a standardized code or protocol. Each code word is assembled in accordance with the specific rules of the code and assigned a unique meaning. Code words are typically used for reasons of reliability, clarity, brevity, or secrecy.
+coefficient sequence 	"монетная" последовательность 	
+coincidences between two cryptograms	совпадения между двумя криптограммами 	
+collect a large amount of plaintext and ciphertext	получить большое количество шифрованного и открытого текста 	
+Collision-free hash function family	Семейство хэш-функций с трудно обнаружимыми коллизиями	
+Colossus 	Колосс	giant: someone or something that is abnormally large and powerful
+combined encryption 	комбинированное шифрование	
+commercial channel 	коммерческий канал	
+commercial encryption 	коммерческие криптосистемы	
+Common secret key	Общий секретный ключ	
+communication complexity 	коммуникационная сложность	The notion of communication complexity (CC) was introduced by Yao in 1979, who investigated the following problem involving two separated parties (Alice and Bob). ...
+commutative 	коммутативный	(of a binary operation) independent of order; as in e.g. &quot;a x b = b x a&quot;
+commutative property of encrypting function	коммутативность шифрующей функции	
+commutative ring 	коммутативное кольцо 	In ring theory, a branch of abstract algebra, a commutative ring is a ring in which the multiplication operation is commutative. The study of commutative rings is called commutative algebra.
+compact knapsack 	компактный вектор ранца 	
+complement key 	ключ-дополнение	
+complementary spread function	полно распределенная 	
+completely random source of messages	полностью случайный источник сообщений 	
+component cipher	составляющий шифр	
+composite residuosity	композиционная остаточность	
+compound encryption 	составное шифрование 	
+compromise a secret key	компрометировать секретный ключ 	
+compromised cryptosystem	скомпрометированная криптосистема	
+compromised key 	скомпрометированный ключ 	
+computable function 	вычислимая функция	Computable functions are the basic objects of study in computability theory. Computable functions are the formalized analogue of the intuitive notion of algorithm. ...
+computational complexity 	вычислительная сложность	Computational complexity theory is a branch of the theory of computation in computer science and mathematics that focuses on classifying computational problems according to their inherent difficulty. ...
+computational complexity-based cryptography	вычислительная криптография	
+computationally feasible 	вычислительно осуществимый	
+computationally hard problem	труднорешаемая задача	
+computationally infeasible	вычислительно неосуществимый	Computational complexity theory is a branch of the theory of computation in computer science and mathematics that focuses on classifying computational problems according to their inherent difficulty. ...
+computationally secure scheme	вычислительно стойкая схема	
+Computationally zero-knowledge interactive proof system	Интерактивная система доказательства с вычислительно нулевым разглашением	
+compute a key	вычислять ключ 	
+computer cryptanalysis 	машинный криптоанализ	
+computer cryptography 	компьютерная криптография	The use of a crypto-algorithm in a computer, microprocessor, or microcomputer to perform encryption or decryption to protect information or to authenticate users, sources, or information. ...
+computer eavesdropping 	перехват электромагнитного излучения работающих компьютеров	
+computer key 	ключ шифрования-расширования для компьютера 	
+concatenated encryption 	составное шифрование	
+concatenation of a message and an appended authenticator	сцепление сообщения и добавляемого аутентификатора 	
+conceal  the contents of a message	прятать содержание сообщения 	
+concealment message methodology	методология сокрытия сообщения 	
+conditional distribution 	условное распределение 	Given two jointly distributed random variables X and Y, the conditional probability distribution of Y given X is the probability distribution of Y when X is known to be a particular value.
+conference cryptosystem	криптосистема для конференц-связи	
+conference key distribution system	система распределения конференц-ключей 	
+confidence estimation 	оценка по доверительному интервалу	
+confidential means of communication	средства конфиденциальной связи	
+confidentiality provided by encryption	конфиденциальность, обеспечиваемая с помощью средств шифрования 	
+confusion 	перемешивание 	disorder resulting from a failure to behave predictably; &quot;the army retreated in confusion&quot;
+congruence 	конгруэнтность 	congruity: the quality of agreeing; being suitable and appropriate
+congruential 	конгруэнтный 	 That uses congruency (division by a modulus)
+consecutive bits of linear feedback shift register sequence 	подряд идущие биты последовательности, полученной с помощью регистра сдвига с линейной обратной связью 	
+constant sequence 	постоянная последовательность	
+continous encryption 	непрерывное шифрование 	
+controlled key distribution	контролируемое распределение ключей 	
+conventional cipher 	традиционный шифр	A secret key cipher.
+conventional cryptanalysis 	традиционный криптоанализ	
+conventional cryptographic key	ключ традиционной (одноключевой) криптографической системы	
+conventional cryptographic means	традиционные криптографические средства 	
+conversational key 	переговорный ключ 	
+coprime 	взаимно простой 	In mathematics, two integers a and b are said to be coprime (also spelled co-prime) or relatively prime if they have no common positive factor other than 1 or, equivalently, if their greatest common divisor is 1.   The notation a    b is sometimes used to indicate that a and b are relatively prime.
+correct decryption 	правильное расшифрование	
+correlation attack 	корреляционная атака	In cryptography, correlation attacks are a class of known plaintext attacks for breaking stream ciphers whose keystream is generated by combining the output of several linear feedback shift registers (called LFSRs for the rest of this article) using a Boolean function. ...
+correlation attack secure	защищённый от корреляционной атаки	
+correlation immune	корреляционно-стойкий	(Correlation immunity) In mathematics, the correlation immunity of a Boolean function is a measure of the degree to which its outputs are uncorrelated with some subset of its inputs. ...
+correlation immunity 	корреляционная стойкость	In mathematics, the correlation immunity of a Boolean function is a measure of the degree to which its outputs are uncorrelated with some subset of its inputs. ...
+corrupt 	компрометировать	corrupt morally or by intemperance or sensuality; &quot;debauch the young people with wine and women&quot;; &quot;Socrates was accused of corrupting young men&quot;; &quot;Do school counselors subvert young children?&quot;; &quot;corrupt the morals&quot;
+corrupted key	скомпрометированный ключ 	
+counter mode 	счётный режим	In cryptography, modes of operation enable the repeated and secure use of a block cipher under a single key.
+counterfeit cipher 	поддельный шифр	
+countermeasure	контрмера	an action taken to offset another action
+covert broadcast	скрытое вещание	
+covert channel	скрытая среда связи,скрытый канал,канал утечки информации, плохо защищенный канал	In Computer Security, a covert channel is a type of computer security attack that creates a capability to transfer information objects between processes that are not supposed to be allowed to communicate by the computer security policy. ...
+crackable cipher	вскрываемый шифр	
+crib 	подстрочник	baby bed with high sides made of slats
+cryppee 	криптограф 	
+cryppie 	cryppee 	See also: for an exhaustive list.
+crypt analyze	крипт анализировать	
+cryptanalysis	Криптоанализ 	the science of analyzing and deciphering codes and ciphers and cryptograms
+cryptanalyst	Криптоаналитик ,дешифровальщик	decoder skilled in the analysis of codes and cryptograms
+cryptanalytically equivalent ciphers	криптоаналитически эквивалентные шифры 	
+cryptanalytically secure key	стойкий к криптоанализу ключ 	
+Crypto 	Крипто	CRYPTO, the International Cryptology Conference, is one of the largest academic conferences in cryptography and cryptanalysis. ...
+cryptoanalysis	криптоанализ	Cryptanalysis (from the Greek kryptós, &quot;hidden&quot;, and analýein, &quot;to loosen&quot; or &quot;to untie&quot;) is the study of methods for obtaining the meaning of encrypted information, without access to the secret information that is normally required to do so. ...
+cryptoancillary 	криптовспомогательный	
+cryptoancillary equipment	вспомогательное криптографическое оборудование 	Equipment designed specifically to facilitate efficient or reliable operation of crypto-equipment, without performing cryptographic functions itself. [CNSSI] (see also cryptographic, function, operation, cryptography)
+cryptoboard 	криптоплата	
+cryptocard 	криптокарта 	
+cryptochannel 	криптоканал 	In telecommunication, a cryptochannel is a complete system of crypto-communications between two or more holders. The basic unit for naval cryptographic communication. ...
+cryptochip 	крипточип,криптомикросхема 	
+cryptocommunications 	криптографически защищённая связь 	
+cryptocompatibility 	криптосовместимость 	
+cryptocomplexity 	криптографическая сложность	
+cryptocorrespondence 	криптопреступник 	
+cryptocustodian 	ответственный за хранение ключей	
+cryptodevice 	криптографическое устройство,криптоприбор,шифратор 	
+crypto-engine	криптосредство	
+cryptogear 	криптографическое устройство	
+cryptogram	криптограмма	a piece of writing in code or cipher
+cryptogram bit 	бит криптограммы	
+cryptograph 	шифровальная машина 	cipher: a secret method of writing
+cryptographer	криптограф	cryptanalyst: decoder skilled in the analysis of codes and cryptograms
+cryptographic aids 	криптографические средства	
+cryptographic algorithm	криптографический алгоритм	(I) An algorithm that employs the science of cryptography, including encryption algorithms, cryptographic hash algorithms, digital signature algorithms, and key agreement algorithms. [RFC2828] (see also digital signature, encryption, hash, key, signature, algorithm, cryptographic)
+Cryptographic Application Programming Interface	программный интерфейс криптографического приложения	The Cryptographic Application Programming Interface (also known variously as CryptoAPI, Microsoft Cryptography API, or simply CAPI) is an application programming interface included with Microsoft Windows operating systems that provides services to enable developers to secure Windows-based ...
+cryptographic authentication 	криптографическая аутентификация	Method using the Domain Key technology, in which key pairs are generated by email senders (one pair in DNS and one pair in message header). Mailbox providers query DNS to ensure the key signature in the header matches the key in the DNS.
+cryptographic block	блок криптоалгоритма	
+cryptographic channel	криптографически защищённый канал	
+cryptographic checksum 	криптографическая контрольная сумма	A one-way function applied to a file to produce a unique fingerprint of the file for later reference. Checksum systems are a primary means of detecting filesystem tampering on Unix.
+cryptographic checkvalue 	криптографическая контрольная величина	
+cryptographic commodities	криптографическое оборудование	
+cryptographic compatibility 	криптографическая совместимость	
+cryptographic conversion	Криптографическое преобразование	
+cryptographic devices	криптографическая аппаратура	
+cryptographic facilities 	криптографическое оборудование	
+cryptographic information	криптографическая информация	
+cryptographic initialization 	инициирование криптографических процессов	Function used to set the state of a cryptographic logic prior to key generation, encryption, or other operating mode. [CNSSI] (see also encryption, function, key, cryptographic)
+cryptographic integrity	криптографическая целостность	
+cryptographic interception	перехват шифрованной информации	
+cryptographic interface 	криптоинтерфейс 	
+cryptographic network 	сеть с криптографической защитой	
+cryptographic option 	дополнительное криптографическое оборудование 	
+cryptographic parameter 	криптографический параметр	
+cryptographic prime 	простое число, используемое в криптосистеме	
+cryptographic procedure 	криптографическая процедура	
+cryptographic protection	криптографическая защита	
+cryptographic protocol	Протокол криптографический,Криптографический протокол	A security protocol (cryptographic protocol or encryption protocol) is an abstract or concrete protocol that performs a security-related function and applies cryptographic methods.
+cryptographic protocol 	криптографический протокол	A security protocol (cryptographic protocol or encryption protocol) is an abstract or concrete protocol that performs a security-related function and applies cryptographic methods.
+cryptographic sensitivity 	криптографическая уязвимость	
+cryptographic separation 	криптографическое разделение	
+cryptographic service	криптографическая служба	Modules that provide secure key storage and cryptographic functions. The Providers (CSPs) modules may be software only or hardware with software drivers. ...
+Cryptographic Service Provider	провайдер криптографических услуг,криптопровайдер	In Microsoft Windows, a Cryptographic Service Provider (CSP) is a software library that implements the Cryptographic System Programming Interface (CSPI). ...
+cryptographic strength	cryptographic strength,криптографическая стойкость	Strong cryptography or cryptographically strong are general terms applied cryptographic systems or components that are considered highly resistant to cryptanalysis.
+cryptographic unit	 криптографический блок, блок засекречивания данных	
+cryptographical method	 криптографический метод	
+cryptographical security	 криптографическая защита	
+cryptographical transformation	 криптопреобразования	
+cryptographically protected communication	связь с криптографическим закрытием информации	
+cryptographically random 	криптографические случайный 	
+cryptography	криптография	cryptanalysis: the science of analyzing and deciphering codes and ciphers and cryptograms
+cryptoignition 	инициирование криптографических операций	
+cryptoinformation 	шифрованная информация,информация, используемая при криптоанализе,информация, имеющая отношение к криптосистеме 	
+cryptoinsecurity 	нарушение криптостойкости	
+cryptointerface 	криптоинтерфейс	
+cryptokey 	криптоключ	
+cryptokey entry 	ввод ключа	
+cryptokey generator 	генератор криптоключей 	
+crypto-like	криптоподобный	
+cryptolinguistics 	криптолингвистика 	
+Cryptologia	Криптология	Cryptologia is a journal in cryptography published quarterly since January 1977. Its remit is all aspects of cryptography, but there is a special emphasis on historical aspects of the subject. The founding editors were Brian J. Winkel, David Kahn, Louis Kruh, Cipher A. Deavours and Greg Mellen.
+cryptological agency 	криптологическое агентство	
+cryptological circles 	криптологические круги	
+cryptological technician 	специалист-криптолог 	
+cryptologist	криптолог	cryptanalyst: decoder skilled in the analysis of codes and cryptograms
+cryptology	криптология	cryptanalysis: the science of analyzing and deciphering codes and ciphers and cryptograms
+cryptomachine 	криптомашина,криптографическая машина	
+cryptomapping 	криптоотображение 	
+cryptomathematics 	криптоматематика 	
+cryptomicroprocessor 	криптомикропроцессор ,микропроцессор криптографического устройства	A secure cryptoprocessor is a dedicated computer on a chip or microprocessor for carrying out cryptographic operations, embedded in a packaging with multiple physical security measures, which give it a degree of tamper resistance.
+cryptomode 	крипторежим 	
+cryptomodule 	криптомодуль	
+cryptonet 	криптосеть 	(I) A group of system entities that share a secret cryptographic key for a symmetric algorithm. [RFC2828] Stations holding a common key. [CNSSI] (see also algorithm, cryptographic, key, system)
+crypto-only mode	режим работы только с криптографической защитой 	
+cryptooperation 	криптооперация,работа в режиме криптографической защиты	
+cryptopackage 	пакет программ для криптографической защиты информации	
+cryptoprocessor 	 криптопроцессор 	A secure cryptoprocessor is a dedicated computer on a chip or microprocessor for carrying out cryptographic operations, embedded in a packaging with multiple physical security measures, which give it a degree of tamper resistance.
+cryptoproof 	криптостойкий 	
+cryptopunk 	криптопанк 	
+cryptor 	устройство шифрования,шифратор 	A tool that may be used, legitimately, or illegitimately, to protect an application from being reverse-engineered, or otherwise analyzed. These tools use encryption to obfuscate the content of an application, often for the purposes of avoiding detection and hindering analysis.
+cryptosecure 	криптостойкий 	(cryptosecurity) A component of communications security resulting from the provisions of technically sound cryptosystems and their proper use (NSTISSI 1996).
+cryptosecurity device 	прибор для криптографической защиты	
+cryptoserver 	криптосервер 	
+cryptosystem	криптосистема,криптографическая система	There are two different meanings of the word cryptosystem. One is used by the cryptographic community, while the other is the meaning understood by the public.
+cryptotransaction 	криптооперация 	
+cryptotrojan	криптотроян	Ransomware is computer malware which holds a computer system, or the data it contains, hostage against its user by demanding a ransom for its restoration.
+cryptounit 	криптоблок 	
+cryptovariable 	криптопеременная 	In cryptography, a cipher (or cypher) is an algorithm for performing encryption or decryption -- a series of well-defined steps that can be followed as a procedure. An alternative, less common term is encipherment. ...
+cryptovector 	криптовектор 	
+cryptoviral extortion	криптовирусное вымогание	
+cryptoviral extortion attack	aтака криптовирусного вымогание	
+cryptovirology	криптовирусология	Cryptovirology is a field that studies how to use cryptography to design powerful malicious software. The field was born with the observation that public-key cryptography can be used to break the symmetry between what an antivirus analyst sees regarding a virus and what the virus writer sees. ...
+current key 	действующий ключ 	
+custodian of a public directory	хранитель открытого справочника	
+custom key	заказной ключ 	
+customer specific key	ключ со структурой, определяемой пользователем	
+cyclical redundancy code	циклический избыточный код	
+cyclical shift 	циклический сдвиг 	
+Data Encryption Standard	стандарт шифрования данных	The Data Encryption Standard (DES) is a block cipher (a form of shared secret encryption) that was selected by the National Bureau of Standards as an official Federal Information Processing Standard (FIPS) for the United States in 1976 and which has subsequently enjoyed widespread use ...
+data scrambling	скрэмблирование,шифрование данных	
+decipher	расшифровывать,дешифровать, декодировать	decode: convert code into ordinary language
+deciphering	дешифрование	(decipher) decode: convert code into ordinary language
+decode	 декодировать, дешифрировать,раскодировать	convert code into ordinary language
+decoder	декодер, дешифратор,декодирование	the kind of intellectual who converts messages from a code to plain text
+decrypted	декодированный	(decrypt) decode: convert code into ordinary language
+decrypter	дешифратор	In cryptography, encryption is the process of transforming information (referred to as plaintext) using an algorithm (called cipher) to make it unreadable to anyone except those possessing special knowledge, usually referred to as a key. ...
+decryption	 расшифровывание, расшифровка, дешифрация	decoding: the activity of making clear or converting from code into plain text; &quot;a secret key or password is required for decryption&quot;
+Derived Unique Key Per Transaction	передаваемый уникальный ключ транзакции	In cryptography, Derived Unique Key Per Transaction (DUKPT) is a key management scheme in which for every transaction, a unique key is used which is derived from a fixed key. ...
+DES	ДЕС,ДЕЗ,стандарт DES,стандарт шифрования данных DES, стандарт шифрования данных	diethylstilbestrol: a potent estrogen used in medicine and in feed for livestock and poultry
+descrambler	дескремблер	In telecommunications, a scrambler is a device that transposes or inverts signals or otherwise encodes a message at the transmitter to make the message unintelligible at a receiver not equipped with an appropriately set descrambling device. ...
+dictionary attack	атака по словарю,Перебор по словарю	In cryptanalysis and computer security, a dictionary attack is a technique for defeating a cipher or authentication mechanism by trying to determine its decryption key or passphrase by searching likely possibilities.
+differential cryptanalysis	дифференциальный криптоанализ	Differential cryptanalysis is a general form of cryptanalysis applicable primarily to block ciphers, but also to stream ciphers and cryptographic hash functions. In the broadest sense, it is the study of how differences in an input can affect the resultant difference at the output. ...
+Directed chosen-message attack	Направленная атака с выбором сообщений	
+discrete logarithm	дискретный логарифм	In mathematics, specifically in abstract algebra and its applications, discrete logarithms are group-theoretic analogues of ordinary logarithms. In particular, an ordinary logarithm loga(b) is a solution of the equation a&#39;x = b over the real or complex numbers. ...
+discrete logarithm problem	проблема дискретного логарифма,Задача дискретного логарифмирования	In mathematics, specifically in abstract algebra and its applications, discrete logarithms are group-theoretic analogues of ordinary logarithms. In particular, an ordinary logarithm loga(b) is a solution of the equation a&#39;x = b over the real or complex numbers. ...
+electronic digital signature	Электронная цифровая подпись	(EDS)   set of electronic digital symbols, created by cryptographic facilities and acknowledges the electronic document, its accessory to the client and permanence of content.
+electronic espionage	электронный шпионаж	
+Elgamal scheme	cхема Эль Гамаля	
+embedded cryptographic system	сложенная криптографическая система	Cryptosystem performing or controlling a function as an integral element of a larger system or subsystem. [CNSSI] (see also control, function, cryptographic, cryptographic system, system)
+encipher	шифровать, кодировать, шифровать	code: convert ordinary language into code; &quot;We should encode the message for security reasons&quot;
+encrypted	шифрованный сигнал,зашифрованный сигнал, зашифрованный	(encrypt) code: convert ordinary language into code; &quot;We should encode the message for security reasons&quot;
+encryption	зашифрование, шифрование	encoding: the activity of converting data or information into code
+encryption function	Функция шифрования	A bijection that uses a key, encryption key, to compute the image.
+encryption key	 ключ кодирования,ключ шифрования	In cryptography, encryption is the process of transforming information (referred to as plaintext) using an algorithm (called cipher) to make it unreadable to anyone except those possessing special knowledge, usually referred to as a key. ...
+encryption scheme	схема шифрования	An algorithm that defines a cleartext space, a ciphertext space, and a set of encryption keys. For each encryption key, the scheme also defines an encryption function, a decryption key, and a decryption function. An encryption scheme is also called a cipher.
+Encryption Standards	стандарты шифрования	
+encryptor	шифратор	Alternative spelling of encrypter
+end-to-end encryption	абонентское шифрование,оконечное абонентское шифрование	
+end-to-end exchange	сквозной обмен	
+end-to-end security	комплексная система защиты	
+export encryption	экспорт шифрования	Encryption, in any form, which leaves its country of origin. For example, encrypted information or a computer disk holding encryption algorithms that is sent out of the country.
+Fast Fourier Transform	быстрое преобразование Фурье	A fast Fourier transform (FFT) is an efficient algorithm to compute the discrete Fourier transform (DFT) and its inverse. ...
+Feistel cipher	Шифр Файстеля	In cryptography, a Feistel cipher is a symmetric structure used in the construction of block ciphers, named after the German-born physicist and cryptographer Horst Feistel who did pioneering research while working for IBM (USA); it is also commonly known as a Feistel network. ...
+Feistel network	Сеть Файстеля	In cryptography, a Feistel cipher is a symmetric structure used in the construction of block ciphers, named after the German-born physicist and cryptographer Horst Feistel who did pioneering research while working for IBM (USA); it is also commonly known as a Feistel network. ...
+gamming 	гаммирование	(gam) a herd of whales
+handshake	согласование,процедура согласования,рукопожатие	grasping and shaking a person&#39;s hand (as to acknowledge an introduction or to agree on a contract)
+handshaking protocol	протокол установления связи	
+HSM	ХСМ	A software product that automatically moves unused files to storage and retrieves them when requested.
+Huffman code	код Хоффмана	In computer science and information theory, Huffman coding is an entropy encoding algorithm used for lossless data compression. ...
+Huffman encoding	кодирование по алгоритму Хаффмана	In computer science and information theory, Huffman coding is an entropy encoding algorithm used for lossless data compression. ...
+indecipherable	не поддающийся расшифровке,неразборчивый	not easily deciphered; &quot;indecipherable handwriting&quot;
+infiltration	инфильтрация,проникновение 	a process in which individuals (or small groups) penetrate an area (especially the military penetration of enemy positions without detection)
+insider attack	внутренняя атака	An attack originating from inside a protected network.
+intelligence	разведка,шпионаж,шпионство	the ability to comprehend; to understand and profit from experience
+key	ключ,криптографический ключ	cardinal: serving as an essential component; &quot;a cardinal rule&quot;; &quot;the central cause of the problem&quot;; &quot;an example that was fundamental to the argument&quot;; &quot;computers are fundamental to modern industrial structure&quot;
+key agreement	согласование ключей	In cryptography, a key-agreement protocol is a protocol whereby two or more parties can agree on a key in such a way that both influence the outcome. If properly done, this precludes undesired third-parties from forcing a key choice on the agreeing parties. ...
+Key distribution protocol	Протокол распределения ключей	
+key escrow	поддержка ключей шифрования третьей стороной	Key escrow (also known as a fair cryptosystem) is an arrangement in which the keys needed to decrypt encrypted data are held in escrow so that, under certain circumstances, an authorized third party may gain access to those keys. ...
+key exchange	обмен ключами	Key exchange (also known as &quot;key establishment&quot;) is any method in cryptography by which cryptographic keys are exchanged between users, allowing use of a cryptographic algorithm.
+key expansion	расширение ключа	A process that creates a larger key from the original key.
+key fingerprint	отпечаток ключа	In public-key cryptography, a public key fingerprint is a short sequence of bytes used to authenticate or look up a longer public key. Fingerprints are created by applying a cryptographic hash function to a public key. ...
+key frame	базовый кадр,ключевой кадр	A key frame in animation and filmmaking is a drawing that defines the starting and ending points of any smooth transition. They are called &quot;frames&quot; because their position in time is measured in frames on a strip of film. ...
+key generation	генерация ключа	Key generation is the process of generating keys for cryptography. A key is used to encrypt and decrypt whatever data is being encrypted/decrypted.
+Key generation algorithm	Алгоритм генерации ключей	
+key generator	генератор ключа	A key generator is used in many cryptographic protocols to generate a sequence with many pseudo-random characteristics. This sequence is used as an encryption key at one end of communication, and as a decryption key at the other.
+key length	длина ключа	In cryptography, key size or key length is the size measured in bits of the key used in a cryptographic algorithm (such as a cipher). ...
+key management	управление ключами	Key management is the provisions made in a cryptography system design that are related to generation, exchange, storage, safeguarding, use, vetting, and replacement of keys. It includes cryptographic protocol design, key servers, user procedures, and other relevant protocols.
+key pair	пара ключей	Public-key cryptography is a cryptographic approach which involves the use of asymmetric key algorithms instead of or in addition to symmetric key algorithms. Unlike symmetric key algorithms, it does not require a secure  initial exchange of one or more secret keys to both sender and receiver. ...
+key recovery	восстановление ключа	Key escrow (also known as a fair cryptosystem) is an arrangement in which the keys needed to decrypt encrypted data are held in escrow so that, under certain circumstances, an authorized third party may gain access to those keys. ...
+key ring	связка ключей	a circular ring of metal for holding keys
+key schedule	список ключей	In cryptography, the so-called product ciphers are a certain kind of ciphers, where the (de)ciphering of data is done in &quot;rounds&quot;. The general setup of each round is the same, except for some hard-coded parameters and a part of the cipher key, called a subkey. ...
+key scheduling	Развертывание ключа	In cryptography, the so-called product ciphers are a certain kind of ciphers, where the (de)ciphering of data is done in &quot;rounds&quot;. The general setup of each round is the same, except for some hard-coded parameters and a part of the cipher key, called a subkey. ...
+key space	пространство ключей	In cryptography, an algorithm&#39;s key space refers to the set of all possible keys that can be used to initialize it. For example, if an algorithm works using a key that is a string of 10 bits, then its key space is the set of all binary strings of length 10.
+key splitting	разделение ключей	Secret sharing refers to method for distributing a secret amongst a group of participants, each of which is allocated a share of the secret. The secret can be reconstructed only when a sufficient number of shares are combined together; individual shares are of no use on their own.
+keygen	генератор ключей,кейген	A license or product key generator (keygen) is a computer program that generates a product licensing key, serial number, or some other registration information necessary to activate for use a software application.
+kleptography	клептография	Kleptography is the study of stealing information securely and subliminally. Kleptography is a natural extension of the theory of subliminal channels.
+Knapsack cryptosystem	ранцевая криптосистема	
+knapsack problem	проблема ранца	The knapsack problem or rucksack problem is a problem in combinatorial optimization: Given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than a given limit and the total value is as large as possible. ...
+known plaintext attack	атака по известному открытому тексту	The known-plaintext attack (KPA) or crib is an attack model for cryptanalysis where the attacker has samples of both the plaintext and its encrypted version (ciphertext), and is at liberty to make use of them to reveal further secret information such as secret keys and code books. ...
+Known-message attack	Атака с известными сообщениями	
+Known-plaintext attack	Атака с известным открытым текстом	
+linear complexity	целостность строки	Referring to a sequence of 0&#39;s and 1&#39;s, the size of the smallest linear feedback shift register (LFSR) that would replicate the sequence. See also linear feedback shift register.
+linear cryptanalysis	линейный криптоанализ	In cryptography, linear cryptanalysis is a general form of cryptanalysis based on finding affine approximations to the action of a cipher. Attacks have been developed for block ciphers and stream ciphers. ...
+linear key space	линейное пространство ключей	In cryptography, a weak key is a key, which, used with a specific cipher, makes the cipher behave in some undesirable way. ...
+man in the middle attack	атака человек посередине,атака посредника	In cryptography, the man-in-the-middle attack (often abbreviated MITM), bucket-brigade attack, or sometimes Janus attack, is a form of active eavesdropping in which the attacker makes independent connections with the victims and relays messages between them, making them believe that they are ...
+manipulation detection code	Код обнаружения манипуляций	(D) ISDs SHOULD NOT use this term as a synonym for &#39;checksum&#39; because the word &#39;manipulation&#39; implies protection against active attacks, which an ordinary checksum might not provide. ...
+meet-in-the-middle attack	атака встреча посередине,атака "встреча посередине"	
+megabits per second	мегабит в секунду	In telecommunications, bit rate or data transfer rate is the average number of bits, characters, or blocks per unit time passing between equipment in a data transmission system. This is typically measured in multiples of the units bit per second or byte per second.
+megabyte	мегабайт,мег,метр,тонна	a unit of information equal to 1000 kilobytes or 10^6 (1,000,000) bytes
+megabytes per second	мегабайт в секунду	In telecommunications, bit rate or data transfer rate is the average number of bits, characters, or blocks per unit time passing between equipment in a data transmission system. This is typically measured in multiples of the units bit per second or byte per second.
+National Security Agency	Агентство Национальной безопасности	the United States cryptologic organization that coordinates and directs highly specialized activities to protect United States information systems and to produce foreign intelligence information
+Newton subliminal channel	подсознательный канал ньютона	
+passphrase	фраза-пароль	A passphrase is a sequence of words or other text used to control access to a computer system, program or data. A passphrase is similar to a password in usage, but is generally longer for added security. ...
+password	Пассворд ,слово-пароль,пароль,пасс	a secret word or phrase known only to a restricted group; &quot;he forgot the password&quot;
+password snatching	захват пароля	
+permutation	перестановка	substitution: an event in which one thing is substituted for another; &quot;the replacement of lost blood by a transfusion of donor blood&quot;
+permutation cipher	шифр перестановки	In classical cryptography, a permutation cipher is a transposition cipher in which the key is a permutation.
+PGP	программа шифрования PGP, «надежная конфиденциальность», алгоритм шифрования PGP	The PGP is a paintball pistol originally manufactured by Sheridan. It is a &quot;Stock Class&quot; paintball marker, meaning that it utilizes 12 gram CO2 powerlets, and has a horizontal feed tube that holds 10 rounds.
+precomputation attack	атака предварительным вычислением	An attack where the adversary precomputes a look-up table of values used to crack encryption or passwords. See also dictionary attack.
+private key	 личный ключ,секретный ключ	Symmetric-key algorithms are a class of algorithms for cryptography that use trivially related, often identical, cryptographic keys for both decryption and encryption etc.
+probabilistic	вероятностный	of or relating to the Roman Catholic philosophy of probabilism
+Probabilistic Signature Scheme	схема вероятностных подписей	A provably secure way of creating signatures using the RSA algorithm.
+product cipher	шифр составной,составной шифр	In cryptography, a product cipher combines two or more transformations in a manner intending that the resulting cipher is more secure than the individual components to make it resistant to cryptanalysis. ...
+pseudo squares	псевдоквадраты	
+Pseudorandom generator	Псевдослучайный генерато	In computational complexity theory and cryptography, the existence of pseudorandom generators is related to the existence of one-way functions through a number of theorems, collectively referred to as the pseudorandom generator theorem.
+pseudo-random sequence	псевдослучайная последовательность	
+public key	 общий ключ,  открытый ключ	Public-key cryptography is a cryptographic approach which involves the use of asymmetric key algorithms instead of or in addition to symmetric key algorithms. Unlike symmetric key algorithms, it does not require a secure  initial exchange of one or more secret keys to both sender and receiver. ...
+public key encryption	шифрование открытого ключа	Public-key cryptography is a cryptographic approach which involves the use of asymmetric key algorithms instead of or in addition to symmetric key algorithms. Unlike symmetric key algorithms, it does not require a secure  initial exchange of one or more secret keys to both sender and receiver. ...
+public key infrastructure	инфраструктура открытого ключа	Public Key Infrastructure (PKI) is a set of hardware, software, people, policies, and procedures needed to create, manage, distribute, use, store, and revoke digital certificates. ...
+public-key cryptography	криптография открыты того ключа	
+questionable encryption	сомнительное шифрование	
+rainbow table	радужная таблица	A rainbow table is a lookup table offering a time-memory tradeoff used in recovering the plaintext password from a password hash generated by a hash function, often a cryptographic hash function. A common application is to make attacks against hashed passwords feasible. ...
+round key	Раундовый ключ	
+RSA algorithm	алгоритм RSA, алгоритм цифровой подписи Райвеста Шамира Адельмана	In cryptography, RSA (which stands for Rivest, Shamir and Adleman who first publicly described it) is an algorithm for public-key cryptography. It is the first algorithm known to be suitable for signing as well as encryption, and was one of the first great advances in public key cryptography. ...
+RSA Keys 	ключи шифрования RSA	(RSA Key) A public/private key pair generated using RSA algorithm. The private key is used to sign the packets for the WDS Multicast Transport Protocol and the public key is used by clients to validate the signatures.
+salt	salt,"приправа" к ключу,приправа к ключу	a compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal)
+scrambler	 скремблер, шифрующее устройство	a rapid mover; someone who scrambles; &quot;their quarterback was a good scrambler&quot;; &quot;scramblers can often unnerve a better tennis player&quot;
+scrambling	скремблирование,засекречивание, шифрование, кодирование, перестановка элементов	(scramble) an unceremonious and disorganized struggle
+secret	тайна,секрет,тайны	not open or public; kept private or not revealed; &quot;a secret formula&quot;; &quot;secret ingredients&quot;; &quot;secret talks&quot;
+secret key	Секретный ключ	In cryptography, a key is a piece of information (a parameter) that determines the functional output of a cryptographic algorithm or cipher. Without a key, the algorithm would have no result. ...
+secret sharing	разделение тайны	Secret sharing refers to method for distributing a secret amongst a group of participants, each of which is allocated a share of the secret. The secret can be reconstructed only when a sufficient number of shares are combined together; individual shares are of no use on their own.
+secure channel	защищенный канал	In cryptography, a secure channel is a way of transferring data that is resistant to interception and tampering. A confidential channel is a way of transferring data that is resistant to interception, but not necessarily resistant to tampering. ...
+Secure multiparty computation	Протокол конфиденциального вычисления	In cryptography, secure multi-party computation or secure computation or multi-party computation (MPC) is a problem that was initially suggested by Andrew C. Yao in a 1982 paper. ...
+Secure protocol	Стойкий протокол 	
+selective forgery	селективная подделка	In a cryptographic digital signature or MAC system, forgery is the ability to create a pair consisting of a message and a signature (or MAC) that is valid for , where has not been signed in the past by the legitimate signer. There are three types of forgery: Existential, Selective, and Universal.
+self-signed key	самоподписанный ключ	
+server side polymorphism	серверный полиморфизм	
+session key	 код сеанса, ключ сеанса,ключ сессии,разделяемая память	A session key is a single-use symmetric key used for encrypting all messages in one communication session. A closely related term is traffic encryption key or TEK, which refers to any key used to encrypt messages as opposed to different uses, such as encrypting other keys (key encryption key)
+Session key protocol	Протокол выработки сеансовых ключей	
+shared key	совместно используемый ключь	Symmetric-key algorithms are a class of algorithms for cryptography that use trivially related, often identical, cryptographic keys for both decryption and encryption etc.
+static cipher key	статический шифровальный ключ	
+Statistical indistinguishability	Статистическая неразличимость	
+Statistically zero-knowledge interactive proof system	Интерактивная система доказательства со статистически нулевым разглашением	
+steganography	стенография 	cryptography: act of writing in code or cipher
+stego	стего	Steganography is the art and science of writing hidden messages in such a way that no one, apart from the sender and intended recipient, suspects the existence of the message, a form of security through obscurity. ...
+stream cipher	шифр потоковый,потоковый шифр,Шифр поточный 	In cryptography, a stream cipher is a symmetric key cipher where plaintext bits are combined with a pseudorandom cipher bit stream (keystream), typically by an exclusive-or (xor) operation. ...
+stream cipher based MAC	потоковый шифр на основе МАС	MAC that uses linear feedback shift registers (LFSRs) to reduce the size of the data it processes.
+stream encryption	поточное шифрование	
+strong algorithm	стойкий алгоритм	
+strong gamma	криптостойкая гамма	
+Strong one-way function	Односторонняя в сильном смысле функция	
+subliminal channel	подсознательный канал,подсознательная среда связи	Subliminal channels in digital signature crypto systems were found in 1984 by Gustavus Simmons. They are a subgroup of Covert channels and can be used to communicate secretly in a normal looking communication over an insecure channel with help of digital signatures Gustavus J. Simmons. &#39;&#39;&#39;&#39;. ...
+subliminal information	подсознательная информация	
+substitution cipher	Шифр замены,подстановочный шифр	In cryptography, a substitution cipher is a method of encryption by which units of plaintext are replaced with ciphertext according to a regular system; the &quot;units&quot; may be single letters (the most common), pairs of letters, triplets of letters, mixtures of the above, and so forth. ...
+symmetric	Симметричный	symmetrical: having similarity in size, shape, and relative position of corresponding parts
+symmetric cipher	Симметричный шифрование	Symmetric-key algorithms are a class of algorithms for cryptography that use trivially related, often identical, cryptographic keys for both decryption and encryption etc.
+symmetric cryptosystem	Симметричная криптосистема	
+symmetric encryption	cимметричное шифрование	Symmetric-key algorithms are a class of algorithms for cryptography that use trivially related, often identical, cryptographic keys for both decryption and encryption etc.
+symmetric key	симметричный ключ	Symmetric-key algorithms are a class of algorithms for cryptography that use trivially related, often identical, cryptographic keys for both decryption and encryption etc.
+threshold cryptography	пороговая криптография	Splitting a secret (for example a private key) into many pieces such that only certain subsets of the n pieces may be combined to form the secret.
+token	токен,брелок, лексема, маркер	an individual instance of a type of symbol; &quot;the word`error&#39; contains three tokens of `r&#39;&quot;
+token ring	эстафетное кольцо, кольцевая сеть с маркерным доступом	Token ring local area network (LAN) technology is a local area network protocol which resides at the data link layer (DLL) of the OSI model. It uses a special three-byte frame called a token that travels around the ring. Token-possession grants the possessor permission to transmit on the medium. ...
+top secret	совершенно секретно	the highest official level of classification of documents
+touch pad	сенсорная панель	A touchpad (also trackpad) is a pointing device consisting of specialized surface that can translate the motion and position of a user&#39;s fingers to a relative position on screen. ...
+traffic encryption key	ключ шифрования трафика	a symmetric key that is used to encrypt messages. TEKs are typically changed frequently, in some systems daily and in others for every message. See session key.
+transposition cipher	перестановочный шифр	In cryptography, a transposition cipher is a method of encryption by which the positions held by units of plaintext (which are commonly characters or groups of characters) are shifted according to a regular system, so that the ciphertext constitutes a permutation of the plaintext. ...
+trapdoor function generator	Генератор функций с секретом	
+trapdoor one-way function	"лазейка" в односторонней функции	
+traveling salesman problem	проблема коммивояджера	The Travelling Salesman Problem (TSP) is an NP-hard problem in combinatorial optimization studied in operations research and theoretical computer science. Given a list of cities and their pairwise distances, the task is to find a shortest possible tour that visits each city exactly once.
+triple-DES	тройной DES	
+trust relationship	доверительные отношения	A trust relationship is a codified arrangement between two domains where users and/or services exist. One domain (A) trusts the other (B) to identify, authenticate and authorizer B&#39;s users to access A&#39;s resources. ...
+trusted center	Центр доверия	
+trusted certificate	достоверный сертификат,доверенный сертификат	A certificate that is trusted by the user on the basis of secure and authenticated delivery. The public keys included in trusted certificates are used to start certification paths. Also known as a &quot;trust anchor.&quot;
+trusted third party	доверенная третья сторона	In cryptography, a trusted third party (TTP) is an entity which facilitates interactions between two parties who both trust the third party; The Third Party reviews all critical transaction communications between the parties, based on the ease of creating fraudulent digital content. ...
+trusted user	доверенный пользователь	
+Turing machine	машина Тьюринга	a hypothetical computer with an infinitely long memory tape
+unbreakable cipher	Шифр абсолютно стойкий	
+Vernam cipher	шифр Вернама	Gilbert Sandford Vernam (3 April 1890 - 7 February 1960) was an AT&amp;T Bell Labs engineer who, in 1917, invented the stream cipher and later co-invented the one-time pad cipher. ...
+virology	вирусология	the branch of medical science that studies viruses and viral diseases
+weak authentication	слабая аутентификация	Strong authentication is a notion with several unofficial definitions; is not standardized in the security literature.
+weak key	слабый ключ	In cryptography, a weak key is a key, which, used with a specific cipher, makes the cipher behave in some undesirable way. ...
+Weak one-way function	Односторонняя в слабом смысле функция	
+weighted checksum	взвешенная контрольная сумма	
+wiretap	подключаться, подключение к линии, перехват, перехватывать	the act of tapping a telephone or telegraph line to get information
+wiretapping	перехват сообщений,подслушивание	(wiretap) the act of tapping a telephone or telegraph line to get information
+write key	ключ записи	
+zero knowledge proofs	непроницаемое доказательство знания,Доказательство с нулевым разглашением	In cryptography, a zero-knowledge proof or zero-knowledge protocol is an interactive method for one party to prove to another that a (usually mathematical) statement is true, without revealing anything other than the veracity of the statement.
+Zero-knowledge	Нулевое разглашение	

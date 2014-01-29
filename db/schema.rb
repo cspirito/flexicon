@@ -1,12 +1,3 @@
-# NOTICE
-
-# This software was produced for the U. S. Government
-# under Contract No. FA8702-13-C-0001, and is
-# subject to the Rights in Noncommercial Computer Software
-# and Noncommercial Computer Software Documentation Clause (DFARS) 252.227-7014 (JUN 1995)
-
-#  2013 The MITRE Corporation. All Rights Reserved.
-
 # encoding: UTF-8
 # This file is auto-generated from the current state of the database. Instead
 # of editing this file, please use the migrations feature of Active Record to

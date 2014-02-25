@@ -43,7 +43,8 @@ class EntriesController < ApplicationController
   end
   
   def get_id
-    entries = Entry.where(term: params[:term])
+    # entries = Entry.where(term: params[:term])
+    entries = Entry.where('term LIKE ?', '%' + params[:term] + '%')
     ret = entries.map{|ent| ent.id}
     respond_with ret.to_json
   end

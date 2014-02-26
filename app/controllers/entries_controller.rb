@@ -37,7 +37,7 @@ class EntriesController < ApplicationController
   end
   
   def search
-    entries = Entry.where('term LIKE ?', '%' + params[:term] + '%')
+    entries = Entry.where('term COLLATE UTF8_GENERAL_CI LIKE ?', '%' + params[:term] + '%')
     ret = entries.map {|ent| ent.term}.uniq
     respond_with ret.to_json
   end

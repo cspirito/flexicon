@@ -44,8 +44,15 @@ class EntriesController < ApplicationController
   
   def get_id
     # entries = Entry.where(term: params[:term])
-    entries = Entry.where('term LIKE ?', '%' + params[:term] + '%')
-    ret = entries.map{|ent| ent.id}
+    entries_match = Entry.where('term LIKE ?', '%' + params[:term] + '%')
+
+    # entries_def = Entry.where('definition LIKE ?', '%' + params[:term] + '%')
+    entries_def = Entry.joins(:definitions).where('text LIKE ?', '%' + params[:term] + '%')
+
+    entries = entries_def + entries_match
+    
+    ret = entries.map{|ent| ent.id}.uniq
+
     respond_with ret.to_json
   end
 end

@@ -63,11 +63,11 @@ class User < ActiveRecord::Base
   end
     
   def upvote_count
-    count_votes_of_value(1)
+    count_votes_of_value(true)
   end
     
   def downvote_count
-    count_votes_of_value(0)
+    count_votes_of_value(false)
   end
     
   private

@@ -7,6 +7,7 @@
 
 #  2013 The MITRE Corporation. All Rights Reserved.
 class ApplicationController < ActionController::Base
+  # include DeviseTokenAuth::Concerns::SetUserByToken
   protect_from_forgery
 
   # before_filter :default_json
@@ -21,7 +22,7 @@ class ApplicationController < ActionController::Base
   end
 
   def auth_only!
-    
+
     unless user_signed_in?
       render :json => {}, :status => 401
     end

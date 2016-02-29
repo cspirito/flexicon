@@ -50,6 +50,7 @@ gem 'twitter-bootstrap-rails'
 
 # Login with devise
 gem 'devise'
+gem 'devise_token_auth'
 
 # Voting with the thumbs_up gem
 gem 'thumbs_up'

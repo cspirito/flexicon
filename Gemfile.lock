@@ -51,9 +51,6 @@ GEM
       responders
       thread_safe (~> 0.1)
       warden (~> 1.2.3)
-    devise_token_auth (0.1.37)
-      devise (> 3.5.2, < 4.1)
-      rails (< 6)
     ember-auth-rails (4.0.3)
       ember-auth-source
       rails
@@ -171,21 +168,20 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
-  devise
-  devise_token_auth
-  ember-auth-rails
-  ember-rails
+  devise (= 3.5.6)
+  ember-auth-rails (= 4.0.3)
+  ember-rails (= 0.14.1)
   ember-source (~> 1.0.0.rc5)
   handlebars-source (= 1.0.0.rc4)
-  jquery-rails
-  less-rails
+  jquery-rails (= 3.1.4)
+  less-rails (= 2.6.0)
   mysql2 (= 0.3.17)
   rails (= 3.2.12)
-  rails_12factor
+  rails_12factor (= 0.0.3)
   sass-rails (~> 3.2.3)
-  therubyracer
-  thumbs_up
-  tlsmail
+  therubyracer (= 0.12.2)
+  thumbs_up (= 0.6.7)
+  tlsmail (= 0.0.1)
   twitter-bootstrap-rails (= 2.2.8)
   uglifier (>= 1.0.3)
 

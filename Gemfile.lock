@@ -184,6 +184,3 @@ DEPENDENCIES
   tlsmail (= 0.0.1)
   twitter-bootstrap-rails (= 2.2.8)
   uglifier (>= 1.0.3)
-
-BUNDLED WITH
-   1.11.2

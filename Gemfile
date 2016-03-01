@@ -13,9 +13,7 @@ gem 'rails', '3.2.12'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'mysql2'
-gem 'activerecord-postgresql-adapter'
-gem 'activerecord-mysql2-adapter'
+gem 'mysql2', '0.3.17'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -46,11 +44,11 @@ gem 'handlebars-source', '1.0.0.rc4'
 # Support for Twitter Bootstrp
 gem "therubyracer"
 gem "less-rails"
-gem 'twitter-bootstrap-rails'
+gem 'twitter-bootstrap-rails', '2.2.8'
 
 # Login with devise
 gem 'devise'
-gem 'devise_token_auth'
+
 
 # Voting with the thumbs_up gem
 gem 'thumbs_up'

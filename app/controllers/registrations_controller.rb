@@ -8,7 +8,7 @@
 #  2013 The MITRE Corporation. All Rights Reserved.
 class RegistrationsController < Devise::RegistrationsController
   def create
-    params[:user] = params[:user].except!("comment_score", "definition_score", "entry_count", "definition_count", "artifact_count", "comment_count", "comment_votes", "definition_votes")
+    params[:user] = params[:user].except!("downvote_count", "upvote_count","comment_score", "definition_score", "entry_count", "definition_count", "artifact_count", "comment_count", "comment_votes", "definition_votes")
     super
   end
 end

@@ -25,7 +25,7 @@ class SessionsController < Devise::SessionsController
 
     return invalid_credentials unless resource
 
-    resource.ensure_authentication_token!
+    resource.ensure_authentication_token
 
 
     data = {
@@ -44,7 +44,7 @@ class SessionsController < Devise::SessionsController
   def destroy
 
     return missing_params unless params[:auth_token]
-    
+
     resource = resource_class.find_by_authentication_token(params[:auth_token])
 
     resource.reset_authentication_token!

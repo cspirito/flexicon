@@ -1,3 +1,17 @@
+
+## Deploying
+
+### Requirements
+Docker
+Docker Compose
+
+### Steps
+1. docker-compose build
+2. docker-compose up
+3. Access at `docker-machine ip default` port 3000
+
+
+
 NOTICE
 
 This software was produced for the U. S. Government

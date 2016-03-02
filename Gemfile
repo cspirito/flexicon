@@ -13,8 +13,7 @@ gem 'rails', '3.2.12'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'mysql2'
-gem 'activerecord-postgresql-adapter'
+gem 'mysql2', '0.3.17'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -28,30 +27,31 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'jquery-rails'
+gem 'jquery-rails', '3.1.4'
 
-gem 'rails_12factor'
+gem 'rails_12factor', '0.0.3'
 
 ## Non-default gems
-gem 'tlsmail'
+gem 'tlsmail', '0.0.1'
 
 # Ember.js integration with Rails
-gem 'ember-rails'
-gem 'ember-auth-rails'
+gem 'ember-rails', '0.14.1'
+gem 'ember-auth-rails', '4.0.3'
 # Use the latest version of Ember.js
 gem 'ember-source', '~> 1.0.0.rc5'
 gem 'handlebars-source', '1.0.0.rc4'
 
 # Support for Twitter Bootstrp
-gem "therubyracer"
-gem "less-rails"
-gem 'twitter-bootstrap-rails'
+gem "therubyracer", '0.12.2'
+gem "less-rails", '2.6.0'
+gem 'twitter-bootstrap-rails', '2.2.8'
 
 # Login with devise
-gem 'devise'
+gem 'devise', '3.5.6'
+
 
 # Voting with the thumbs_up gem
-gem 'thumbs_up'
+gem 'thumbs_up', '0.6.7'
 
 
 # To use ActiveModel has_secure_password

@@ -12,6 +12,12 @@ Docker Compose
 
 
 
+NOTE
+
+If you are running on Heroku you need to comment out the single line in config/initializers/z_mysql2_adapter.rb due to Heroku having a different configuration. 
+
+
+
 NOTICE
 
 This software was produced for the U. S. Government

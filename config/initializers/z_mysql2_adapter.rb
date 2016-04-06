@@ -1,3 +1,5 @@
 class ActiveRecord::ConnectionAdapters::Mysql2Adapter
-  # NATIVE_DATABASE_TYPES[:primary_key] = "int(11) auto_increment PRIMARY KEY"
+
+  # If you are running on Heroku comment out this line
+  NATIVE_DATABASE_TYPES[:primary_key] = "int(11) auto_increment PRIMARY KEY"
 end

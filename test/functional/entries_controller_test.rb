@@ -9,15 +9,17 @@
 require 'test_helper'
 
 class EntriesControllerTest < ActionController::TestCase
-  
+  include Devise::TestHelpers
   test "should get index" do
-    get :index, format => :json
+    @request.accept = 'application/json'
+    get :index
     assert_response :success
   end
-  
+
   test "should get show" do
-    get :show, Post.first.id, format => :json
+    @request.accept = 'application/json'
+    get :show, {id: Entry.first.id}
     assert_response :success
   end
-  
+
 end

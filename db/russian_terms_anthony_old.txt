@@ -1,0 +1,43 @@
+NOTICE
+
+This technical data was produced for the U. S. Government
+under Contract No. FA8702-13-C-0001, and is
+subject to the Rights in Technical Data-Noncommercial
+Items Clause (DFARS) 252.227-7013 (NOV 1995)
+ 2013 The MITRE Corporation. All Rights Reserved.
+
+Category	English	Russian (1)	Russian (2)	Russian (3)	Russian (4)	Russian (5)	Russian (6)	English Equivalent	Russian Phrase
+Slang	a million	лимон	Лям					The Kazakh opposition ordered a revolution in the US for a million bucks.	Казахстанская оппозиция заказала революцию в США за лимон баксов.
+Slang	account	Аккаунт 	Аккоунт 	акк				The administrators of the microblogging service Twitter blocks the accounts of users with infected computers.	Администрация сервиса микроблогинга Twitter заблокирует аккаунты пользователей зараженных компьютеров.
+Cyber	Add-on	Аддон 						Give me complete instructions on how to install and use addons and where to download them.	Дайте полную инструкцию по установке и експлуатацые аддона и где скачать.
+Cyber	advertiser network	рекламная сеть						An advertiser network is the unified center for the collection and placement of banner advertisemnents for web sites.	Рекламная сеть - это единственный центр сбора и размещения банерной рекламы для Web-сайтов.
+Cyber	Anonymous FTP	анонимный FTP-сервер						"To download files to our anonymous FTP server, you can use any FTP manager."	Для закачивания файлов на наш анонимный ftp-сервер вы можете воспользоваться любым ftp-менеджером.
+Cyber	Blu-ray	Блюрей 						I buy films on Blu-ray disk.	Куплю фильмы на блюрей дисках. 
+Cyber	botnet	ботнет	ботсеть	Бот-сеть				"Experts emphasize that the botnet uses p2p-engine and encryption and also has a flexible structure, enabling it to dynamically adapt to a situation."	"Эксперты подчеркивают, что ботнет использует р2р-движок и шифрование, а также имеет гибкую структуру, позволяющую ему динамически адаптироваться к ситуации."
+Cyber	Browser	Браузер 	Бродилка 	обозреватель	смотрелка	бродилка	броузер 	A browser enables the user to quickly and easily obtain access to a great number of web pages on a great number of web sites.	Браузер позволяет пользователю быстро и легко получить доступ к множеству веб-страниц на множестве веб-сайтов.
+Cyber	buffer overflow	переполнение буфера						A buffer overflow can be enacted when connecting to an intruder's server.	Переполнение буфера может быть задействовано при соединении с сервером злоумышленника.
+Cyber	bulletproof hosting	абузоустойчивый хостинг						"We offer bulletproof hosting for adult content of any type, exploits, spam and other projects."	"Мы предлагаем абузоустойчивый хостинг под адалт контент любого направления, эксплоиты, спам, другие проекты."
+Slang	bullying	наезд						"The only thing left is for the ""russian mafia"" to demand a public apology for the absolutely unfounded bullying."	"Теперь осталось лишь, чтобы «русская мафия» потребовала от него публичных извинений за абсолютно необоснованный наезд."
+Slang	cheater	Читер						I am a cheater and am proud of it.	Я читер и горжусь этим.
+Slang	click fraud	Клик-фрауд						"Cick fraud, or ""false clicking"" can be observed in different situations."	"Клик-фрауд или ""фальшивый клик"" может наблюдаться в разных ситуациях."
+Cyber	cyberspace	киберпространство						"Forsaking the material world, Ilya found eternal life in the expanses of cyberspace."	"Покинув материальный мир, Илья обрел вечную жизнь на просторах киберпространства."
+Cyber	Distributed Denial of Service	распределенный отказ в обслуживании						"Authorities of the Russian Federation put a group behind bars who blackmailed a company on the Internet by using a ""distributed denial of service attack"" (DDOS)."	"Власти Российской Федерации посадили за решетку банду, которая шантажировала компании в интернете посредством атак по типу ""распределенный отказ в обслуживании"" (DDoS)."
+Cyber	DNS	днска						"The traceroute goes through a different provider, and the DNS is seen and works."	Через другого провайдера трассировка проходит и днска видится и работает.
+Cyber	driver	Драйвер 	дрова	 двигатель	 формирователь			"When purchasing any device, you need to install so called drivers."	При покупке какого-либо устройства вам потребуется установка так называемых драйверов.
+Cyber	dual boot	Дуалбут 	с альтернативной загрузкой					The most sparing way to install it is dualboot installation with the native firmware.	Наиболее щадящим способом установки является установка в дуалбут с родной прошивкой.
+Cyber	Ethernet	Эзернет	изернет					Who knows how to get Ethernet to work over 500 meters and how to strengthen the signal?	Кто знает как заставить работать изернет на 500 тах метрах и как усилить сигнал?
+Cyber	Excel	Ёксель 	Ёксель 					I stumbled across the opinion that it is not possible to install Macros in Excel that protect against copying.	"Я наткнулся на мнение, что макросом защиту от копирования установить в экселе нельзя."
+Cyber	exploit	эксплойт	сплоит	эксп	брешь	сплойт		The given exploit scans the network for vulnerable terminals.	Данный эксплойт сканирует сеть на предмет уязвимых терминалов.
+Cyber	fake antivirus	Лжеантивирус						"During the first two weeks of October, the number of detections or fake antiviruses, aoccording to the ""Doctor Web"" statistics server, held at the level of 2.5 million per day."	"В течение первых двух недель октября количество детектов лжеантивирусов согласно серверу статистики компании ""Доктор Веб"" держалось на уровне более 2,5 млн. в сутки."
+Cyber	firmware	фирмваре						Has anyone heard about projects to change printer firmware?	Кто-то что-то слышал о проектах по изменению фирмваре в принтере?
+Cyber	gadget	Гаджет						"Every day, a few suprising digital gadgets appear that may not be possible to buy, but about which something interesting can be learned."	"Каждый день в нашем мире появляются несколько удивительных цифровых гаджетов, которые не всегда можно купить, но о которых всегда можно узнать что-либо интересное."
+Cyber	hang	висеть	зависать	 «зависать»				"Please take a look at your logs, my computer is hanging."	"Посмотрите пожалуйста логи, комп висит."
+Cyber	HTML	Хтмл 	Хтмыл 	 гипертекстовый язык описания документов	 язык гипертекстовой маркировки			"To make the page load faster, I want to do practically all of the pages in HTML, but not remove scripts, so as to put less stress on the server."	"Чтобы сделать более быстрой загрузку страниц, Я хочу сделать практически все страницы в виде ХТМЛ, а не выводить скриптами, чтобы меньше нагружать сервер."
+Cyber	Indexation	Индексация 						"Indexation means that the search robot visited your site, analyzed it and input that information into the database of the search system."	"Индексация означает, что поисковый робот посетил ваш сайт, проанализировал его и занес информацию в базу данных поисковой системы."
+Cyber	infected	заражений						Practically any downloaded file can be infected with a computer virus.	Практически любой скаченный вами файл может быть заражен компьютерным вирусом.
+Cyber	infection	инфекция	 влияние	 заражение				There are a significant number of quick and reliable diagnostics for viral infections.	Существует значительное число методов быстрой и надежной диагностики вирусных инфекций.
+Cyber	Internet Worm	Интернет червь						"The new Downandup Internet worm, which is known as Conficker, put 3.5 million computers under the control of unknown hackers, warn specialists from the company F-secure."	"Новый интернет-червь Downadup, известный также как Conficker, передал под контроль неизвестных хакеров 3,5 млн. зараженных компьютеров, предупреждают специалисты компании F-Secure."
+Cyber	IP spoofing	IP-спуфинг	IP спуфинг					IP spoofing can only function when authentification occurs on the basis of IP addresses.	"IP-спуфинг может функционировать только при условии, что аутентификация происходит на базе IP-адресов."
+Cyber	IPhone	Айфон 	Еблофон 					"The apple IPhone telephone, it is alright to say, usurped the market for gadgets."	"Телефон айфон эпл, можно сказать, узурпировал рынок гаджетов"
+Cyber	no problem	Без Б	Говно-вопрос	говно вопрос				"Ok, no problem, we'll see each other at the same time tomorrow."	"Ок, без Б, завтра в это же время состыкуемся! "
+Cyber	zombie computer	Компьютеры-зомби							"Computer zombies may be used by hackers to release a distributed denial of service attack, to distribute spam, or to steal confidential information."
